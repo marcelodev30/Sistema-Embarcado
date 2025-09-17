@@ -1,0 +1,21 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+  lioff/ds3231:
+    component_hash: 4d86b7788c78afac3e21b80688de796a96a7d60b0547ce1c04ae5ae3529ac50f
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=5.0.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 0.0.1
+direct_dependencies:
+- idf
+- lioff/ds3231
+manifest_hash: 5ea97da27d03c9057f225871b31524850941bb8fac4ed5d7d998711d59f2d994
+target: esp32
+version: 2.0.0
