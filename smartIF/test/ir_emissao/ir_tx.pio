@@ -1,0 +1,32 @@
+.program ir_tx
+
+.define public CARRIER_FREQ 38000 // Usar 'public' é uma boa prática
+
+pull block
+mov x, osr
+
+loop:
+    set pins, 1 [1]
+    set pins, 0 [1]
+    jmp x-- loop
+
+% c-sdk {
+#include "hardware/clocks.h"
+
+static inline void ir_tx_program_init(PIO pio, uint sm, uint offset, uint pin) {
+    pio_gpio_init(pio, pin);
+    pio_sm_set_consecutive_pindirs(pio, sm, pin, 1, true);
+    pio_sm_config c = ir_tx_program_get_default_config(offset);
+    sm_config_set_out_pins(&c, pin, 1);
+    sm_config_set_set_pins(&c, pin, 1);
+    
+    // ================== AQUI ESTÁ A CORREÇÃO ==================
+    // Usamos a constante C que o pioasm gera para nós (prefixo_NOME)
+    float div = (float)clock_get_hz(clk_sys) / (ir_tx_CARRIER_FREQ * 4);
+    // =========================================================
+
+    sm_config_set_clkdiv(&c, div);
+    pio_sm_init(pio, sm, offset, &c);
+    pio_sm_set_enabled(pio, sm, true);
+}
+%}
