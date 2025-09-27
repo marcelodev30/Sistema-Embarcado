@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  mosquitto:
+    image: eclipse-mosquitto:2.0 # Usa a imagem oficial do Eclipse Mosquitto
+    container_name: mosquitto-broker-marcelo-oliveira # Nome do container para facilitar a identificação    
+    restart: unless-stopped # Reinicia o container a menos que seja parado manualmente
+    
+    # Mapeamento de portas: <porta-no-seu-pc>:<porta-no-container>
+    # Isso expõe as portas do broker para que você possa se conectar
+    # a partir da sua máquina ou da BitDogLab.
+    ports:
+      - "1899:1899"  # Porta sem TLS
+      - "8899:8899"  # Porta com PSK
+      
+    # Mapeamento de volumes: <pasta-no-seu-pc>:<pasta-no-container>
+    # É aqui que a mágica acontece. Ligamos nossas pastas locais
+    # com as pastas que o mosquitto.conf espera encontrar.
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log

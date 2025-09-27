@@ -1,0 +1,52 @@
+1758754354: mosquitto version 2.0.22 starting
+1758754354: Config loaded from /mosquitto/config/mosquitto.conf.
+1758754354: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1758754354: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1758754354: Opening ipv4 listen socket on port 8899.
+1758754354: mosquitto version 2.0.22 running
+1758754372: New connection from 172.18.0.1:36602 on port 8899.
+1758754372: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
+1758754372: Client <unknown> disconnected: Protocol error.
+1758754374: New connection from 172.18.0.1:36610 on port 8899.
+1758754374: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
+1758754374: Client <unknown> disconnected: Protocol error.
+1758754495: mosquitto version 2.0.22 terminating
+1758754495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1758754496: mosquitto version 2.0.22 starting
+1758754496: Config loaded from /mosquitto/config/mosquitto.conf.
+1758754496: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1758754496: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1758754496: Opening ipv4 listen socket on port 8899.
+1758754496: mosquitto version 2.0.22 running
+1758754528: New connection from 172.18.0.1:41934 on port 8899.
+1758754528: Client auto-ADFAF099-C59A-7B8A-A3A0-34D9C840AC40 disconnected, not authorised.
+1758754539: New connection from 172.18.0.1:55898 on port 8899.
+1758754539: Client auto-0ECD1DD6-E675-7E21-995C-D36F68D6363F disconnected, not authorised.
+1758754607: mosquitto version 2.0.22 terminating
+1758754607: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1758754609: mosquitto version 2.0.22 starting
+1758754609: Config loaded from /mosquitto/config/mosquitto.conf.
+1758754609: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1758754609: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1758754609: Opening ipv4 listen socket on port 8899.
+1758754609: mosquitto version 2.0.22 running
+1758754613: New connection from 172.18.0.1:35416 on port 8899.
+1758754613: Client auto-7B2C28A2-47D1-6EC4-67B0-1BA7C2CA1D2D disconnected, not authorised.
+1758754615: New connection from 172.18.0.1:35430 on port 8899.
+1758754615: Client auto-FDA98836-1F65-9F56-C60F-FDA1460DF166 disconnected, not authorised.
+1758754636: New connection from 172.18.0.1:46910 on port 8899.
+1758754636: Client auto-A9A4EF18-2603-D751-9DE6-2CE4C7894AC7 disconnected, not authorised.
+1758756409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1758758210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1758760011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1758761812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1758761814: New connection from 172.18.0.1:52036 on port 8899.
+1758761814: Client auto-E3356331-5D96-424F-242B-81864BB6B284 disconnected, not authorised.
+1758761817: New connection from 172.18.0.1:52040 on port 8899.
+1758761817: Client auto-80A6210D-402B-794F-190B-E09F504D53D8 disconnected, not authorised.
