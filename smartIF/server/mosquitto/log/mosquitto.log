@@ -43,3 +43,10 @@
 1758412704: Client mqtt-explorer-808e92c0 disconnected.
 1758412769: mosquitto version 2.0.22 terminating
 1758412769: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759002960: mosquitto version 2.0.22 starting
+1759002960: Config loaded from /mosquitto/config/mosquitto.conf.
+1759002960: Opening ipv4 listen socket on port 1883.
+1759002960: Opening ipv6 listen socket on port 1883.
+1759002960: mosquitto version 2.0.22 running
+1759002963: mosquitto version 2.0.22 terminating
+1759002963: Saving in-memory database to /mosquitto/data//mosquitto.db.
