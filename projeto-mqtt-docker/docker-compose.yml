@@ -1,8 +1,8 @@
 version: '3.8'
 services:
   mosquitto:
-    image: eclipse-mosquitto:2.0 # Usa a imagem oficial do Eclipse Mosquitto
-    container_name: mosquitto-broker-marcelo-oliveira # Nome do container para facilitar a identificação    
+    image: eclipse-mosquitto:2.0 # imagem Eclipse Mosquitto
+    container_name: mosquitto-broker-marcelo-oliveira # Nome do container    
     restart: unless-stopped # Reinicia o container a menos que seja parado manualmente
     ports:
       - "1887:1887"  # Porta sem TLS

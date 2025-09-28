@@ -103,3 +103,62 @@ To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
 1759004761: Client auto-1F425071-4092-57B1-4418-BD919A88A96F disconnected, not authorised.
 1759004779: New connection from 192.168.65.1:28252 on port 8887.
 1759004779: Client auto-A43C79BA-4228-9A79-D262-EAD480CBADF8 disconnected, not authorised.
+1759005881: New connection from 192.168.65.1:52093 on port 8887.
+1759005881: Client auto-B3B4CB09-6BC2-2936-A803-4AD0CA760C62 disconnected, not authorised.
+1759005896: New connection from 192.168.65.1:34287 on port 8887.
+1759005896: OpenSSL Error[0]: error:0A00009C:SSL routines::http request
+1759005896: Client <unknown> disconnected: Protocol error.
+1759005897: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
+1759005902: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
+1759005932: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
+1759006152: New connection from 192.168.65.1:48336 on port 8887.
+1759006152: Client auto-BB3C5E6F-508A-D2F7-93C3-7DDD2AB7A356 disconnected, not authorised.
+1759006157: New connection from 192.168.65.1:20689 on port 8887.
+1759006157: Client auto-7C7383A3-7F45-7847-CA04-8A4D75E6E878 disconnected, not authorised.
+1759006528: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759007237: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
+1759007272: New connection from 192.168.65.1:36837 on port 8887.
+1759007272: Client auto-D98FD49D-562B-9E2B-143D-31641D16C924 disconnected, not authorised.
+1759007286: New connection from 192.168.65.1:59570 on port 8887.
+1759007286: Client auto-8F81C0DD-1306-6B04-C068-BB2E61A7001E disconnected, not authorised.
+1759007624: New connection from 192.168.65.1:52017 on port 8887.
+1759007624: Client auto-579758C4-3946-7738-372F-C4E9D87161ED disconnected, not authorised.
+1759008329: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759010130: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759011931: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759013731: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759015533: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759017334: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759019135: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759020936: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759022522: mosquitto version 2.0.22 terminating
+1759022522: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759078388: mosquitto version 2.0.22 starting
+1759078388: Config loaded from /mosquitto/config/mosquitto.conf.
+1759078388: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759078388: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759078388: Opening ipv4 listen socket on port 1887.
+1759078388: Opening ipv4 listen socket on port 8887.
+1759078388: mosquitto version 2.0.22 running
+1759078483: New connection from 192.168.65.1:57749 on port 1887.
+1759078483: Client auto-835764C3-F8EC-259F-4EFA-0C5C6C906B84 disconnected, not authorised.
+1759078519: New connection from 192.168.65.1:31605 on port 1887.
+1759078519: Client auto-CFFD21A2-207D-BB6B-0BC4-482CD1727F8C disconnected, not authorised.
+1759078582: New connection from 192.168.65.1:17037 on port 8887.
+1759078582: Client auto-ACF1684E-A6CD-9B0B-D352-BEA9584F6A69 disconnected, not authorised.
+1759078727: New connection from 192.168.65.1:36110 on port 8887.
+1759078727: Client auto-15D21E9F-4BD5-34EC-6F42-1F5C00E7B3D5 disconnected, not authorised.
+1759078887: New connection from 192.168.65.1:56614 on port 8887.
+1759078887: Client auto-F3974E88-2A4A-D225-8C5A-68AF5B0136E4 disconnected, not authorised.
+1759080188: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759081989: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759083790: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759085591: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759087392: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759089193: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759090994: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759092795: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759094391: New connection from 192.168.65.1:19122 on port 8887.
+1759094391: Client auto-883164DA-11A6-581A-1E9C-ED75A984E16B disconnected, not authorised.
