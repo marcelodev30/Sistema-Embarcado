@@ -103,6 +103,7 @@ To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
 1759004761: Client auto-1F425071-4092-57B1-4418-BD919A88A96F disconnected, not authorised.
 1759004779: New connection from 192.168.65.1:28252 on port 8887.
 1759004779: Client auto-A43C79BA-4228-9A79-D262-EAD480CBADF8 disconnected, not authorised.
+<<<<<<< Updated upstream
 1759005881: New connection from 192.168.65.1:52093 on port 8887.
 1759005881: Client auto-B3B4CB09-6BC2-2936-A803-4AD0CA760C62 disconnected, not authorised.
 1759005896: New connection from 192.168.65.1:34287 on port 8887.
