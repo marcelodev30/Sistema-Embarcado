@@ -162,3 +162,79 @@ To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
 1759092795: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759094391: New connection from 192.168.65.1:19122 on port 8887.
 1759094391: Client auto-883164DA-11A6-581A-1E9C-ED75A984E16B disconnected, not authorised.
+1759173635: mosquitto version 2.0.22 starting
+1759173635: Config loaded from /mosquitto/config/mosquitto.conf.
+1759173635: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759173635: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759173635: Opening ipv4 listen socket on port 1887.
+1759173635: Opening ipv4 listen socket on port 8887.
+1759173635: mosquitto version 2.0.22 running
+1759173728: New connection from 172.18.0.1:37838 on port 8887.
+1759173728: Client auto-0E7D120F-9C3E-BEF6-DAF9-A4EA4CB3284A disconnected, not authorised.
+1759173758: New connection from 172.18.0.1:34166 on port 8887.
+1759173758: Client auto-936FFB8B-06F6-43D2-00AC-CA99935BA4D4 disconnected, not authorised.
+1759173770: New connection from 172.18.0.1:56024 on port 8887.
+1759173770: Client auto-A8B06754-EDA2-A5C8-AFD4-D221FEC99142 disconnected, not authorised.
+1759173799: New connection from 172.18.0.1:54974 on port 8887.
+1759173799: Client auto-18D543B7-2C48-3F83-0CEE-7AE151A65D74 disconnected, not authorised.
+1759174456: New connection from 172.18.0.1:58096 on port 8887.
+1759174456: Client auto-2F670799-B73A-1835-E7FB-79BAD2BAF9C7 disconnected, not authorised.
+1759174491: New connection from 172.18.0.1:38422 on port 8887.
+1759174491: Client auto-B0F21CA8-B2D9-264D-5E82-AEFCC195C5AE disconnected, not authorised.
+1759174769: mosquitto version 2.0.22 terminating
+1759174769: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759174772: mosquitto version 2.0.22 starting
+1759174772: Config loaded from /mosquitto/config/mosquitto.conf.
+1759174772: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759174772: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759174772: Opening ipv4 listen socket on port 1887.
+1759174772: Opening ipv4 listen socket on port 8887.
+1759174772: mosquitto version 2.0.22 running
+1759174780: New connection from 172.18.0.1:39616 on port 8887.
+1759174780: Client auto-D94E647E-8D92-E8E1-3514-E72D83C1E7FA disconnected, not authorised.
+1759174788: New connection from 172.18.0.1:48960 on port 8887.
+1759174788: Client auto-0338D81D-488A-285B-4ACF-B5870B802A88 disconnected, not authorised.
+1759174790: New connection from 172.18.0.1:48970 on port 8887.
+1759174790: Client auto-25947F03-4D22-71A5-DC0F-76B2EA2E6664 disconnected, not authorised.
+1759174795: New connection from 172.18.0.1:37738 on port 8887.
+1759174795: Client auto-A2D8CFE4-46DA-F919-649D-216531F695B0 disconnected, not authorised.
+1759174830: mosquitto version 2.0.22 terminating
+1759174830: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759174834: mosquitto version 2.0.22 starting
+1759174834: Config loaded from /mosquitto/config/mosquitto.conf.
+1759174834: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759174834: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759174834: Opening ipv4 listen socket on port 1887.
+1759174834: Opening ipv4 listen socket on port 8887.
+1759174834: mosquitto version 2.0.22 running
+1759174846: New connection from 172.18.0.1:44372 on port 8887.
+1759174846: New client connected from 172.18.0.1:44372 as auto-275F40AF-48EE-997A-5312-00C55AD9D15E (p2, c1, k60, u'aluno87').
+1759174956: New connection from 172.18.0.1:52268 on port 8887.
+1759174956: New client connected from 172.18.0.1:52268 as auto-525FB7AB-583A-A749-9975-87B2684A9E7A (p2, c1, k60, u'aluno87').
+1759174956: Client auto-525FB7AB-583A-A749-9975-87B2684A9E7A disconnected.
+1759174986: New connection from 172.18.0.1:60984 on port 8887.
+1759174986: New client connected from 172.18.0.1:60984 as auto-39AE6B23-6AA5-A936-E3B4-AB1825DD7B3A (p2, c1, k60, u'aluno87').
+1759174986: Client auto-39AE6B23-6AA5-A936-E3B4-AB1825DD7B3A disconnected.
+1759175034: New connection from 172.18.0.1:32804 on port 8887.
+1759175034: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
+1759175034: Client <unknown> disconnected: Protocol error.
+1759175048: New connection from 172.18.0.1:43562 on port 8887.
+1759175048: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
+1759175048: Client <unknown> disconnected: Protocol error.
+1759175065: New connection from 172.18.0.1:38264 on port 8887.
+1759175065: New client connected from 172.18.0.1:38264 as auto-B52EB5CD-2F91-375E-4725-A75EE49BDD28 (p2, c1, k60, u'aluno87').
+1759175065: Client auto-B52EB5CD-2F91-375E-4725-A75EE49BDD28 disconnected.
+1759175075: New connection from 172.18.0.1:51948 on port 8887.
+1759175075: OpenSSL Error[0]: error:1C800066:Provider routines::cipher operation failed
+1759175075: OpenSSL Error[1]: error:0A000119:SSL routines::decryption failed or bad record mac
+1759175075: OpenSSL Error[2]: error:0A000139:SSL routines::record layer failure
+1759175075: Client <unknown> disconnected: Protocol error.
+1759175079: New connection from 172.18.0.1:51952 on port 8887.
+1759175079: New client connected from 172.18.0.1:51952 as auto-6E7A2CDE-2499-63C6-1804-0DABB4784607 (p2, c1, k60, u'aluno87').
+1759175079: Client auto-6E7A2CDE-2499-63C6-1804-0DABB4784607 disconnected.
