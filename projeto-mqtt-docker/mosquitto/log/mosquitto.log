@@ -238,3 +238,413 @@ To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
 1759175079: New connection from 172.18.0.1:51952 on port 8887.
 1759175079: New client connected from 172.18.0.1:51952 as auto-6E7A2CDE-2499-63C6-1804-0DABB4784607 (p2, c1, k60, u'aluno87').
 1759175079: Client auto-6E7A2CDE-2499-63C6-1804-0DABB4784607 disconnected.
+=======
+1759004911: mosquitto version 2.0.22 starting
+1759004911: Config loaded from /mosquitto/config/mosquitto.conf.
+1759004911: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759004911: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759004911: Opening ipv4 listen socket on port 1887.
+1759004911: Opening ipv4 listen socket on port 8887.
+1759004911: mosquitto version 2.0.22 running
+1759004917: mosquitto version 2.0.22 terminating
+1759004917: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759004924: mosquitto version 2.0.22 starting
+1759004924: Config loaded from /mosquitto/config/mosquitto.conf.
+1759004924: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759004924: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759004924: Opening ipv4 listen socket on port 1887.
+1759004924: Opening ipv4 listen socket on port 8887.
+1759004924: mosquitto version 2.0.22 running
+1759004933: New connection from 172.18.0.1:54226 on port 1887.
+1759004933: Client <unknown> disconnected due to protocol error.
+1759004934: New connection from 172.18.0.1:54242 on port 1887.
+1759004934: Client <unknown> disconnected due to protocol error.
+1759004934: New connection from 172.18.0.1:54258 on port 1887.
+1759004939: Client <unknown> disconnected due to protocol error.
+1759004939: New connection from 172.18.0.1:49604 on port 1887.
+1759004939: Client <unknown> disconnected due to protocol error.
+1759004939: New connection from 172.18.0.1:49606 on port 1887.
+1759005030: Client <unknown> has exceeded timeout, disconnecting.
+1759005113: New connection from 172.18.0.1:55006 on port 8887.
+1759005113: Client auto-F8B1F623-4A6A-C5D2-5E32-4515DDC837DF disconnected, not authorised.
+1759005303: New connection from 172.18.0.1:54974 on port 8887.
+1759005303: Client auto-D6D84372-B432-7144-E13C-819CB9AA18EC disconnected, not authorised.
+1759005313: New connection from 172.18.0.1:52032 on port 8887.
+1759005313: Client auto-37B0D376-F597-8ACD-FE1E-311D440BF747 disconnected, not authorised.
+1759005334: New connection from 172.18.0.1:38954 on port 8887.
+1759005334: Client auto-3F9C8218-91D5-C946-2AEC-EA529E4A5907 disconnected, not authorised.
+1759005463: New connection from 172.18.0.1:37170 on port 8887.
+1759005463: Client auto-F6B4606C-217E-F5F4-D28F-42ACD86D6818 disconnected, not authorised.
+1759005596: mosquitto version 2.0.22 terminating
+1759005596: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759005604: mosquitto version 2.0.22 starting
+1759005604: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005604: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005604: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005604: Error opening acl file "/mosquitto/config/acl.conf".
+1759005604: mosquitto version 2.0.22 starting
+1759005604: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005604: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005604: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005604: Error opening acl file "/mosquitto/config/acl.conf".
+1759005605: mosquitto version 2.0.22 starting
+1759005605: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005605: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005605: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005605: Error opening acl file "/mosquitto/config/acl.conf".
+1759005606: mosquitto version 2.0.22 starting
+1759005606: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005606: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005606: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005606: Error opening acl file "/mosquitto/config/acl.conf".
+1759005607: mosquitto version 2.0.22 starting
+1759005607: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005607: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005607: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005607: Error opening acl file "/mosquitto/config/acl.conf".
+1759005609: mosquitto version 2.0.22 starting
+1759005609: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005609: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005609: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005609: Error opening acl file "/mosquitto/config/acl.conf".
+1759005612: mosquitto version 2.0.22 starting
+1759005612: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005612: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005612: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005612: Error opening acl file "/mosquitto/config/acl.conf".
+1759005619: mosquitto version 2.0.22 starting
+1759005619: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005619: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005619: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005619: Error opening acl file "/mosquitto/config/acl.conf".
+1759005632: mosquitto version 2.0.22 starting
+1759005632: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005632: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005632: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005632: Error opening acl file "/mosquitto/config/acl.conf".
+1759005658: mosquitto version 2.0.22 starting
+1759005658: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005658: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005658: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005658: Error opening acl file "/mosquitto/config/acl.conf".
+1759005709: mosquitto version 2.0.22 starting
+1759005709: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005709: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005709: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005709: Error opening acl file "/mosquitto/config/acl.conf".
+1759005770: mosquitto version 2.0.22 starting
+1759005770: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005770: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005770: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005770: Error opening acl file "/mosquitto/config/acl.conf".
+1759005830: mosquitto version 2.0.22 starting
+1759005830: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005830: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005830: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005830: Error opening acl file "/mosquitto/config/acl.conf".
+1759005890: mosquitto version 2.0.22 starting
+1759005890: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005890: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005890: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005890: Error opening acl file "/mosquitto/config/acl.conf".
+1759005950: mosquitto version 2.0.22 starting
+1759005950: Config loaded from /mosquitto/config/mosquitto.conf.
+1759005950: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759005950: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759005950: Error opening acl file "/mosquitto/config/acl.conf".
+1759006011: mosquitto version 2.0.22 starting
+1759006011: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006011: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006011: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006011: Error opening acl file "/mosquitto/config/acl.conf".
+1759006071: mosquitto version 2.0.22 starting
+1759006071: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006071: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006071: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006071: Error opening acl file "/mosquitto/config/acl.conf".
+1759006131: mosquitto version 2.0.22 starting
+1759006131: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006131: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006131: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006131: Error opening acl file "/mosquitto/config/acl.conf".
+1759006191: mosquitto version 2.0.22 starting
+1759006191: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006191: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006191: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006191: Error opening acl file "/mosquitto/config/acl.conf".
+1759006252: mosquitto version 2.0.22 starting
+1759006252: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006252: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006252: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006252: Error opening acl file "/mosquitto/config/acl.conf".
+1759006312: mosquitto version 2.0.22 starting
+1759006312: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006312: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006312: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006312: Error opening acl file "/mosquitto/config/acl.conf".
+1759006372: mosquitto version 2.0.22 starting
+1759006372: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006372: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006372: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006372: Error opening acl file "/mosquitto/config/acl.conf".
+1759006432: mosquitto version 2.0.22 starting
+1759006432: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006432: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006432: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006432: Error opening acl file "/mosquitto/config/acl.conf".
+1759006493: mosquitto version 2.0.22 starting
+1759006493: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006493: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006493: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006493: Error opening acl file "/mosquitto/config/acl.conf".
+1759006553: mosquitto version 2.0.22 starting
+1759006553: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006553: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006553: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006553: Error opening acl file "/mosquitto/config/acl.conf".
+1759006613: mosquitto version 2.0.22 starting
+1759006613: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006613: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006613: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006613: Error opening acl file "/mosquitto/config/acl.conf".
+1759006673: mosquitto version 2.0.22 starting
+1759006673: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006673: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006673: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006673: Error opening acl file "/mosquitto/config/acl.conf".
+1759006734: mosquitto version 2.0.22 starting
+1759006734: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006734: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006734: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006734: Error opening acl file "/mosquitto/config/acl.conf".
+1759006794: mosquitto version 2.0.22 starting
+1759006794: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006794: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006794: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006794: Error opening acl file "/mosquitto/config/acl.conf".
+1759006854: mosquitto version 2.0.22 starting
+1759006854: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006854: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006854: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006854: Error opening acl file "/mosquitto/config/acl.conf".
+1759006915: mosquitto version 2.0.22 starting
+1759006915: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006915: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006915: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006915: Error opening acl file "/mosquitto/config/acl.conf".
+1759006975: mosquitto version 2.0.22 starting
+1759006975: Config loaded from /mosquitto/config/mosquitto.conf.
+1759006975: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759006975: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759006975: Error opening acl file "/mosquitto/config/acl.conf".
+1759007035: mosquitto version 2.0.22 starting
+1759007035: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007035: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007035: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007035: Error opening acl file "/mosquitto/config/acl.conf".
+1759007095: mosquitto version 2.0.22 starting
+1759007095: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007095: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007095: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007095: Error opening acl file "/mosquitto/config/acl.conf".
+1759007156: mosquitto version 2.0.22 starting
+1759007156: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007156: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007156: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007156: Error opening acl file "/mosquitto/config/acl.conf".
+1759007216: mosquitto version 2.0.22 starting
+1759007216: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007216: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007216: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007216: Error opening acl file "/mosquitto/config/acl.conf".
+1759007276: mosquitto version 2.0.22 starting
+1759007276: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007276: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007276: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007276: Error opening acl file "/mosquitto/config/acl.conf".
+1759007336: mosquitto version 2.0.22 starting
+1759007336: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007336: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007336: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007336: Error opening acl file "/mosquitto/config/acl.conf".
+1759007397: mosquitto version 2.0.22 starting
+1759007397: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007397: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007397: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007397: Error opening acl file "/mosquitto/config/acl.conf".
+1759007457: mosquitto version 2.0.22 starting
+1759007457: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007457: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007457: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007457: Error opening acl file "/mosquitto/config/acl.conf".
+1759007517: mosquitto version 2.0.22 starting
+1759007517: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007517: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007517: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007517: Error opening acl file "/mosquitto/config/acl.conf".
+1759007578: mosquitto version 2.0.22 starting
+1759007578: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007578: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007578: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007578: Error opening acl file "/mosquitto/config/acl.conf".
+1759007638: mosquitto version 2.0.22 starting
+1759007638: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007638: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007638: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007638: Error opening acl file "/mosquitto/config/acl.conf".
+1759007698: mosquitto version 2.0.22 starting
+1759007698: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007698: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007698: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007698: Error opening acl file "/mosquitto/config/acl.conf".
+1759007758: mosquitto version 2.0.22 starting
+1759007758: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007758: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007758: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007758: Error opening acl file "/mosquitto/config/acl.conf".
+1759007819: mosquitto version 2.0.22 starting
+1759007819: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007819: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007819: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007819: Error opening acl file "/mosquitto/config/acl.conf".
+1759007879: mosquitto version 2.0.22 starting
+1759007879: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007879: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007879: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007879: Error opening acl file "/mosquitto/config/acl.conf".
+1759007939: mosquitto version 2.0.22 starting
+1759007939: Config loaded from /mosquitto/config/mosquitto.conf.
+1759007939: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759007939: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759007939: Error opening acl file "/mosquitto/config/acl.conf".
+1759008000: mosquitto version 2.0.22 starting
+1759008000: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008000: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008000: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008000: Error opening acl file "/mosquitto/config/acl.conf".
+1759008060: mosquitto version 2.0.22 starting
+1759008060: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008060: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008060: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008060: Error opening acl file "/mosquitto/config/acl.conf".
+1759008077: mosquitto version 2.0.22 starting
+1759008077: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008077: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008077: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008077: Error opening acl file "/mosquitto/config/acl.conf".
+1759008078: mosquitto version 2.0.22 starting
+1759008078: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008078: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008078: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008078: Error opening acl file "/mosquitto/config/acl.conf".
+1759008078: mosquitto version 2.0.22 starting
+1759008078: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008078: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008078: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008078: Error opening acl file "/mosquitto/config/acl.conf".
+1759008079: mosquitto version 2.0.22 starting
+1759008079: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008079: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008079: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008079: Error opening acl file "/mosquitto/config/acl.conf".
+1759008080: mosquitto version 2.0.22 starting
+1759008080: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008080: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008080: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008080: Error opening acl file "/mosquitto/config/acl.conf".
+1759008082: mosquitto version 2.0.22 starting
+1759008082: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008082: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008082: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008082: Error opening acl file "/mosquitto/config/acl.conf".
+1759008085: mosquitto version 2.0.22 starting
+1759008085: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008085: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008085: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008085: Error opening acl file "/mosquitto/config/acl.conf".
+1759008092: mosquitto version 2.0.22 starting
+1759008092: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008092: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008092: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008092: Error opening acl file "/mosquitto/config/acl.conf".
+1759008105: mosquitto version 2.0.22 starting
+1759008105: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008105: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008105: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008105: Error opening acl file "/mosquitto/config/acl.conf".
+1759008131: mosquitto version 2.0.22 starting
+1759008131: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008131: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008131: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008131: Error opening acl file "/mosquitto/config/acl.conf".
+1759008182: mosquitto version 2.0.22 starting
+1759008182: Config loaded from /mosquitto/config/mosquitto.conf.
+1759008182: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759008182: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
+1759008182: Error opening acl file "/mosquitto/config/acl.conf".
+>>>>>>> Stashed changes
