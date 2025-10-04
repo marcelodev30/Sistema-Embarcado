@@ -1,651 +1,587 @@
-1759003077: mosquitto version 2.0.22 starting
-1759003077: Config loaded from /mosquitto/config/mosquitto.conf.
-1759003077: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759505171: mosquitto version 2.0.22 starting
+1759505171: Config loaded from /mosquitto/config/mosquitto.conf.
+1759505171: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759003077: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759505171: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759003077: Opening ipv4 listen socket on port 1887.
-1759003077: Opening ipv4 listen socket on port 8887.
-1759003077: mosquitto version 2.0.22 running
-1759003082: mosquitto version 2.0.22 terminating
-1759003082: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759003082: mosquitto version 2.0.22 starting
-1759003082: Config loaded from /mosquitto/config/mosquitto.conf.
-1759003082: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759505171: Opening ipv4 listen socket on port 1887.
+1759505171: Opening ipv4 listen socket on port 8887.
+1759505171: mosquitto version 2.0.22 running
+1759505177: New connection from 192.168.65.1:60177 on port 1887.
+1759505177: Client <unknown> disconnected due to protocol error.
+1759505178: New connection from 192.168.65.1:19864 on port 1887.
+1759505178: Client <unknown> disconnected due to protocol error.
+1759505206: New connection from 192.168.65.1:62224 on port 8887.
+1759505206: New client connected from 192.168.65.1:62224 as auto-5AFF5B9B-8684-BD66-63FE-727DBE188177 (p2, c1, k60, u'aluno87').
+1759505332: New connection from 192.168.65.1:24850 on port 8887.
+1759505332: New client connected from 192.168.65.1:24850 as auto-AD1EEB51-D18E-861A-BF05-3DE9317209B1 (p2, c1, k60, u'aluno87').
+1759505332: Client auto-AD1EEB51-D18E-861A-BF05-3DE9317209B1 disconnected.
+1759505337: Client auto-5AFF5B9B-8684-BD66-63FE-727DBE188177 disconnected.
+1759505358: New connection from 192.168.65.1:45485 on port 8887.
+1759505358: New client connected from 192.168.65.1:45485 as auto-73DFC5D9-E6F5-3329-E2AC-81CEB3147999 (p2, c1, k60, u'aluno87').
+1759505362: New connection from 192.168.65.1:54061 on port 8887.
+1759505362: New client connected from 192.168.65.1:54061 as auto-83C0355D-58E1-E05D-94E5-59C87E38725B (p2, c1, k60, u'aluno87').
+1759505362: Client auto-83C0355D-58E1-E05D-94E5-59C87E38725B disconnected.
+1759505373: New connection from 192.168.65.1:64257 on port 8887.
+1759505373: New client connected from 192.168.65.1:64257 as auto-1C02F24F-A734-A041-F428-27128F5D8F90 (p2, c1, k60, u'aluno87').
+1759505373: Client auto-1C02F24F-A734-A041-F428-27128F5D8F90 disconnected.
+1759505374: New connection from 192.168.65.1:17940 on port 8887.
+1759505374: New client connected from 192.168.65.1:17940 as auto-5997D48B-3146-39DF-A5B4-36A8B2240D83 (p2, c1, k60, u'aluno87').
+1759505374: Client auto-5997D48B-3146-39DF-A5B4-36A8B2240D83 disconnected.
+1759505375: New connection from 192.168.65.1:23199 on port 8887.
+1759505375: New client connected from 192.168.65.1:23199 as auto-788B7DB2-E13A-860A-D63A-7BD44FDBC01A (p2, c1, k60, u'aluno87').
+1759505375: Client auto-788B7DB2-E13A-860A-D63A-7BD44FDBC01A disconnected.
+1759505376: New connection from 192.168.65.1:63265 on port 8887.
+1759505376: New client connected from 192.168.65.1:63265 as auto-EACC661B-EFA0-C5CC-14C3-BBFF49BF7C20 (p2, c1, k60, u'aluno87').
+1759505376: Client auto-EACC661B-EFA0-C5CC-14C3-BBFF49BF7C20 disconnected.
+1759505377: New connection from 192.168.65.1:32596 on port 8887.
+1759505377: New client connected from 192.168.65.1:32596 as auto-8DC59868-4DDA-6DC2-656F-B9495B39B1DD (p2, c1, k60, u'aluno87').
+1759505377: Client auto-8DC59868-4DDA-6DC2-656F-B9495B39B1DD disconnected.
+1759505378: New connection from 192.168.65.1:17297 on port 8887.
+1759505378: New client connected from 192.168.65.1:17297 as auto-C7E8597B-6D8F-8780-BA23-45B5740B3DE3 (p2, c1, k60, u'aluno87').
+1759505378: Client auto-C7E8597B-6D8F-8780-BA23-45B5740B3DE3 disconnected.
+1759505378: New connection from 192.168.65.1:58608 on port 8887.
+1759505378: New client connected from 192.168.65.1:58608 as auto-F1DB5C77-797A-49E8-3C6F-3B8773C6EE13 (p2, c1, k60, u'aluno87').
+1759505378: Client auto-F1DB5C77-797A-49E8-3C6F-3B8773C6EE13 disconnected.
+1759505379: New connection from 192.168.65.1:56161 on port 8887.
+1759505379: New client connected from 192.168.65.1:56161 as auto-9D64713D-6BD4-9F7A-077E-100FAC8B708E (p2, c1, k60, u'aluno87').
+1759505379: Client auto-9D64713D-6BD4-9F7A-077E-100FAC8B708E disconnected.
+1759505393: New connection from 192.168.65.1:61045 on port 8887.
+1759505393: New client connected from 192.168.65.1:61045 as auto-A32605B8-2D06-F08F-B24E-A46CCD1498A3 (p2, c1, k60, u'aluno87').
+1759505393: Client auto-A32605B8-2D06-F08F-B24E-A46CCD1498A3 disconnected.
+1759505402: New connection from 192.168.65.1:52904 on port 8887.
+1759505402: New client connected from 192.168.65.1:52904 as auto-AA9F146F-9CD2-FCB9-76D8-5B520A092210 (p2, c1, k60, u'aluno87').
+1759505402: Client auto-AA9F146F-9CD2-FCB9-76D8-5B520A092210 disconnected.
+1759505410: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759505410: Client auto-73DFC5D9-E6F5-3329-E2AC-81CEB3147999 closed its connection.
+1759505458: New connection from 192.168.65.1:63517 on port 8887.
+1759505458: OpenSSL Error[0]: error:1C800066:Provider routines::cipher operation failed
+1759505458: OpenSSL Error[1]: error:0A000119:SSL routines::decryption failed or bad record mac
+1759505458: OpenSSL Error[2]: error:0A000139:SSL routines::record layer failure
+1759505458: Client <unknown> disconnected: Protocol error.
+1759505479: New connection from 192.168.65.1:43353 on port 8887.
+1759505479: OpenSSL Error[0]: error:1C800066:Provider routines::cipher operation failed
+1759505479: OpenSSL Error[1]: error:0A000119:SSL routines::decryption failed or bad record mac
+1759505479: OpenSSL Error[2]: error:0A000139:SSL routines::record layer failure
+1759505479: Client <unknown> disconnected: Protocol error.
+1759505554: New connection from 192.168.65.1:43799 on port 8887.
+1759505554: New client connected from 192.168.65.1:43799 as auto-0DFFC7AC-1B76-4969-4E4B-E34C9E8C3E5F (p2, c1, k60, u'aluno87').
+1759505557: New connection from 192.168.65.1:27836 on port 8887.
+1759505557: OpenSSL Error[0]: error:1C800066:Provider routines::cipher operation failed
+1759505557: OpenSSL Error[1]: error:0A000119:SSL routines::decryption failed or bad record mac
+1759505557: OpenSSL Error[2]: error:0A000139:SSL routines::record layer failure
+1759505557: Client <unknown> disconnected: Protocol error.
+1759505568: New connection from 192.168.65.1:30900 on port 8887.
+1759505568: OpenSSL Error[0]: error:1C800066:Provider routines::cipher operation failed
+1759505568: OpenSSL Error[1]: error:0A000119:SSL routines::decryption failed or bad record mac
+1759505568: OpenSSL Error[2]: error:0A000139:SSL routines::record layer failure
+1759505568: Client <unknown> disconnected: Protocol error.
+1759505589: New connection from 192.168.65.1:49680 on port 8887.
+1759505589: New client connected from 192.168.65.1:49680 as auto-3E5F4D72-479B-985A-0473-8F044C06A201 (p2, c1, k60, u'aluno87').
+1759505589: Client auto-3E5F4D72-479B-985A-0473-8F044C06A201 disconnected.
+1759505666: New connection from 192.168.65.1:49351 on port 8887.
+1759505666: New client connected from 192.168.65.1:49351 as auto-74166B10-E2E0-5644-658D-DA7F099F9E69 (p2, c1, k60, u'aluno87').
+1759505666: Client auto-74166B10-E2E0-5644-658D-DA7F099F9E69 disconnected.
+1759505679: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759505679: Client auto-0DFFC7AC-1B76-4969-4E4B-E34C9E8C3E5F closed its connection.
+1759505685: New connection from 192.168.65.1:47632 on port 8887.
+1759505685: New client connected from 192.168.65.1:47632 as auto-0B4CF0F8-1AA5-C4AD-61DF-13F638A68707 (p2, c1, k60, u'aluno87').
+1759505689: New connection from 192.168.65.1:48746 on port 8887.
+1759505689: New client connected from 192.168.65.1:48746 as auto-4821EC07-908D-BFC4-7754-A98FD06BC1C0 (p2, c1, k60, u'aluno87').
+1759505689: Client auto-4821EC07-908D-BFC4-7754-A98FD06BC1C0 disconnected.
+1759506971: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759508772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759509363: New connection from 192.168.65.1:53386 on port 8887.
+1759509363: New client connected from 192.168.65.1:53386 as auto-92067D35-67C7-AAE4-1ABC-DE87D43CD816 (p2, c1, k60, u'aluno87').
+1759509363: Client auto-92067D35-67C7-AAE4-1ABC-DE87D43CD816 disconnected.
+1759509413: New connection from 192.168.65.1:64338 on port 8887.
+1759509413: New client connected from 192.168.65.1:64338 as auto-E32F400B-AC7D-4766-A7D4-1B0DDD3FBFF7 (p2, c1, k60, u'aluno87').
+1759509413: Client auto-E32F400B-AC7D-4766-A7D4-1B0DDD3FBFF7 disconnected.
+1759509418: New connection from 192.168.65.1:39571 on port 8887.
+1759509418: New client connected from 192.168.65.1:39571 as auto-2D203E6A-4811-7EA0-047F-1E3632460867 (p2, c1, k60, u'aluno87').
+1759509418: Client auto-2D203E6A-4811-7EA0-047F-1E3632460867 disconnected.
+1759510274: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759510274: Client auto-0B4CF0F8-1AA5-C4AD-61DF-13F638A68707 closed its connection.
+1759510573: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759512375: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759513556: New connection from 192.168.65.1:39616 on port 8887.
+1759513556: New client connected from 192.168.65.1:39616 as aluno87 (p2, c1, k60, u'aluno87').
+1759513575: New connection from 192.168.65.1:63803 on port 8887.
+1759513575: Client aluno87 already connected, closing old connection.
+1759513575: New client connected from 192.168.65.1:63803 as aluno87 (p2, c1, k60, u'aluno87').
+1759513601: New connection from 192.168.65.1:57901 on port 8887.
+1759513601: Client aluno87 already connected, closing old connection.
+1759513601: New client connected from 192.168.65.1:57901 as aluno87 (p2, c1, k60, u'aluno87').
+1759513620: New connection from 192.168.65.1:33364 on port 8887.
+1759513620: Client aluno87 already connected, closing old connection.
+1759513620: New client connected from 192.168.65.1:33364 as aluno87 (p2, c1, k60, u'aluno87').
+1759513686: New connection from 192.168.65.1:33011 on port 8887.
+1759513686: New client connected from 192.168.65.1:33011 as auto-CBDE8322-C7B7-66C8-DE58-DCE4351A0E01 (p2, c1, k60, u'aluno87').
+1759513726: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759513726: Client auto-CBDE8322-C7B7-66C8-DE58-DCE4351A0E01 closed its connection.
+1759513739: New connection from 192.168.65.1:18690 on port 8887.
+1759513739: New client connected from 192.168.65.1:18690 as auto-D649435B-21E1-6B95-6BF6-BB1FB80D8AEF (p2, c1, k60, u'aluno87').
+1759513781: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759513781: Client auto-D649435B-21E1-6B95-6BF6-BB1FB80D8AEF closed its connection.
+1759513815: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759513815: Client aluno87 closed its connection.
+1759513827: New connection from 192.168.65.1:22344 on port 8887.
+1759513827: New client connected from 192.168.65.1:22344 as auto-A2409737-2327-24CB-84D4-6056B7D5C905 (p2, c1, k60, u'aluno87').
+1759513839: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759513839: Client auto-A2409737-2327-24CB-84D4-6056B7D5C905 closed its connection.
+1759514176: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759515720: New connection from 192.168.65.1:51650 on port 8887.
+1759515720: New client connected from 192.168.65.1:51650 as auto-1BCF569C-B3FB-FAEF-5B7B-42C24ED309DE (p2, c1, k60, u'aluno87').
+1759515959: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759515977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759516225: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759516284: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759516316: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759516978: New connection from 192.168.65.1:31284 on port 8887.
+1759516978: New client connected from 192.168.65.1:31284 as aluno87 (p2, c1, k60, u'aluno87').
+1759516998: New connection from 192.168.65.1:57629 on port 8887.
+1759516998: Client aluno87 already connected, closing old connection.
+1759516998: New client connected from 192.168.65.1:57629 as aluno87 (p2, c1, k60, u'aluno87').
+1759517045: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759517045: Client aluno87 closed its connection.
+1759517057: New connection from 192.168.65.1:32632 on port 8887.
+1759517057: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
+1759517057: Client <unknown> disconnected: Protocol error.
+1759517080: New connection from 192.168.65.1:63637 on port 8887.
+1759517080: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
+1759517080: Client <unknown> disconnected: Protocol error.
+1759517108: New connection from 192.168.65.1:42597 on port 8887.
+1759517110: New client connected from 192.168.65.1:42597 as aluno87 (p2, c1, k60, u'aluno87').
+1759517122: New connection from 192.168.65.1:42133 on port 8887.
+1759517122: Client aluno87 already connected, closing old connection.
+1759517122: New client connected from 192.168.65.1:42133 as aluno87 (p2, c1, k60, u'aluno87').
+1759517140: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759517140: Client aluno87 closed its connection.
+1759517289: New connection from 192.168.65.1:60467 on port 8887.
+1759517289: New client connected from 192.168.65.1:60467 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759517312: New connection from 192.168.65.1:64832 on port 8887.
+1759517313: Client marcelo.oliveira already connected, closing old connection.
+1759517313: New client connected from 192.168.65.1:64832 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759517320: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759517320: Client marcelo.oliveira closed its connection.
+1759517321: New connection from 192.168.65.1:58072 on port 8887.
+1759517321: New client connected from 192.168.65.1:58072 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759517398: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759517398: Client marcelo.oliveira closed its connection.
+1759517597: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759517644: New connection from 192.168.65.1:26434 on port 8887.
+1759517646: OpenSSL Error[0]: error:0A0000C1:SSL routines::no shared cipher
+1759517646: Client <unknown> disconnected: Protocol error.
+1759517660: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759517679: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759517690: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759517778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759517880: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759517904: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759517932: New connection from 192.168.65.1:54630 on port 8887.
+1759517932: New client connected from 192.168.65.1:54630 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759517950: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759517950: Client marcelo.oliveira closed its connection.
+1759517959: New connection from 192.168.65.1:42847 on port 8887.
+1759517959: New client connected from 192.168.65.1:42847 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759518020: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759518020: Client marcelo.oliveira closed its connection.
+1759518129: New connection from 192.168.65.1:58063 on port 8887.
+1759518129: New client connected from 192.168.65.1:58063 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759518147: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759518147: Client marcelo.oliveira closed its connection.
+1759518162: New connection from 192.168.65.1:18567 on port 8887.
+1759518163: New client connected from 192.168.65.1:18567 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759518193: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759518193: Client marcelo.oliveira closed its connection.
+1759518195: New connection from 192.168.65.1:24567 on port 8887.
+1759518195: New client connected from 192.168.65.1:24567 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759518216: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759518216: Client marcelo.oliveira closed its connection.
+1759518217: New connection from 192.168.65.1:25868 on port 8887.
+1759518217: New client connected from 192.168.65.1:25868 as marcelo.oliveira (p2, c1, k60, u'aluno87').
+1759518256: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759518256: Client marcelo.oliveira closed its connection.
+1759518337: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518377: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518454: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518475: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518544: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518579: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518594: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759518626: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759519183: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759519767: mosquitto version 2.0.22 terminating
+1759519767: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759519769: mosquitto version 2.0.22 starting
+1759519769: Config loaded from /mosquitto/config/mosquitto.conf.
+1759519769: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759003082: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759519769: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759003082: Opening ipv4 listen socket on port 1887.
-1759003082: Opening ipv4 listen socket on port 8887.
-1759003082: mosquitto version 2.0.22 running
-1759003089: mosquitto version 2.0.22 terminating
-1759003089: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759003090: mosquitto version 2.0.22 starting
-1759003090: Config loaded from /mosquitto/config/mosquitto.conf.
-1759003090: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759519769: Opening ipv4 listen socket on port 1887.
+1759519769: Opening ipv4 listen socket on port 8887.
+1759519769: mosquitto version 2.0.22 running
+1759519770: New connection from 192.168.65.1:31562 on port 8887.
+1759519770: New client connected from 192.168.65.1:31562 as auto-BB3092AA-E1F3-534F-3436-4932E5C25B69 (p2, c1, k60, u'aluno87').
+1759519803: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759519855: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759519953: mosquitto version 2.0.22 terminating
+1759519953: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759519955: mosquitto version 2.0.22 starting
+1759519955: Config loaded from /mosquitto/config/mosquitto.conf.
+1759519955: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759003090: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759519955: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759003090: Opening ipv4 listen socket on port 1887.
-1759003090: Opening ipv4 listen socket on port 8887.
-1759003090: mosquitto version 2.0.22 running
-1759003131: mosquitto version 2.0.22 terminating
-1759003131: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759003290: mosquitto version 2.0.22 starting
-1759003290: Config loaded from /mosquitto/config/mosquitto.conf.
-1759003290: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759519955: Opening ipv4 listen socket on port 1887.
+1759519955: Opening ipv4 listen socket on port 8887.
+1759519955: mosquitto version 2.0.22 running
+1759519956: New connection from 192.168.65.1:61667 on port 8887.
+1759519956: New client connected from 192.168.65.1:61667 as auto-B100366C-1F21-138E-B13C-1DC541EB6909 (p2, c1, k60, u'aluno87').
+1759520006: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759520117: mosquitto version 2.0.22 terminating
+1759520117: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759520119: mosquitto version 2.0.22 starting
+1759520119: Config loaded from /mosquitto/config/mosquitto.conf.
+1759520119: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759003290: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759520119: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759003290: Opening ipv4 listen socket on port 1887.
-1759003290: Opening ipv4 listen socket on port 8887.
-1759003290: mosquitto version 2.0.22 running
-1759003295: New connection from 192.168.65.1:34918 on port 1887.
-1759003295: Client <unknown> disconnected due to protocol error.
-1759003296: New connection from 192.168.65.1:59339 on port 1887.
-1759003296: Client <unknown> disconnected due to protocol error.
-1759003577: New connection from 192.168.65.1:16722 on port 8887.
-1759003577: Client auto-E3468AD9-9FBD-97B8-161F-E2E0C15AB606 disconnected, not authorised.
-1759003583: New connection from 192.168.65.1:19110 on port 8887.
-1759003583: Client auto-D13C1145-1245-4A9B-F8A3-D08EF4B23329 disconnected, not authorised.
-1759003634: New connection from 192.168.65.1:25273 on port 8887.
-1759003634: Client auto-263089CF-64AD-A785-DBD9-AFE6A8882778 disconnected, not authorised.
-1759003657: New connection from 192.168.65.1:25068 on port 8887.
-1759003657: Client auto-E3283A6A-C1BA-B771-C884-6EA468F1F035 disconnected, not authorised.
-1759003926: mosquitto version 2.0.22 terminating
-1759003926: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759003927: mosquitto version 2.0.22 starting
-1759003927: Config loaded from /mosquitto/config/mosquitto.conf.
-1759003927: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759520119: Opening ipv4 listen socket on port 1887.
+1759520119: Opening ipv4 listen socket on port 8887.
+1759520119: mosquitto version 2.0.22 running
+1759520120: New connection from 192.168.65.1:57572 on port 8887.
+1759520120: New client connected from 192.168.65.1:57572 as auto-AEB2AEC3-75CA-0794-190E-71AFE1B14374 (p2, c1, k60, u'aluno87').
+1759520221: mosquitto version 2.0.22 terminating
+1759520221: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759520223: mosquitto version 2.0.22 starting
+1759520223: Config loaded from /mosquitto/config/mosquitto.conf.
+1759520223: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759003927: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759520223: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759003927: Opening ipv4 listen socket on port 1887.
-1759003927: Opening ipv4 listen socket on port 8887.
-1759003927: mosquitto version 2.0.22 running
-1759003983: New connection from 192.168.65.1:29758 on port 8887.
-1759003983: Client auto-A2EE6249-3B3A-465E-0F29-E8987A6B061F disconnected, not authorised.
-1759003985: New connection from 192.168.65.1:30535 on port 8887.
-1759003985: Client auto-DE4DAD5A-39CA-C201-6510-4A7B6A513FD8 disconnected, not authorised.
-1759003989: New connection from 192.168.65.1:65501 on port 8887.
-1759003989: Client auto-FD3F6A43-7DE6-C46E-0780-337A2B2A05D5 disconnected, not authorised.
-1759004016: New connection from 192.168.65.1:63755 on port 8887.
-1759004016: Client auto-7E7FE19F-A852-6550-9E97-DDE77E6ED143 disconnected, not authorised.
-1759004106: mosquitto version 2.0.22 terminating
-1759004106: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759004211: mosquitto version 2.0.22 starting
-1759004211: Config loaded from /mosquitto/config/mosquitto.conf.
-1759004211: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759520223: Opening ipv4 listen socket on port 1887.
+1759520223: Opening ipv4 listen socket on port 8887.
+1759520223: mosquitto version 2.0.22 running
+1759520224: New connection from 192.168.65.1:16468 on port 8887.
+1759520224: New client connected from 192.168.65.1:16468 as auto-863C068E-5519-B502-6A5E-F7EFACE65126 (p2, c1, k60, u'aluno87').
+1759520251: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759520319: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759520509: mosquitto version 2.0.22 terminating
+1759520509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759520511: mosquitto version 2.0.22 starting
+1759520511: Config loaded from /mosquitto/config/mosquitto.conf.
+1759520511: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759004211: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759520511: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759004211: Opening ipv4 listen socket on port 1887.
-1759004211: Opening ipv4 listen socket on port 8887.
-1759004211: mosquitto version 2.0.22 running
-1759004244: New connection from 192.168.65.1:52977 on port 8887.
-1759004244: Client auto-EB8A27AD-42FA-4D41-188B-ED8B8FB7536C disconnected, not authorised.
-1759004246: New connection from 192.168.65.1:62185 on port 8887.
-1759004246: Client auto-25EB6249-BC2D-9A77-9982-B002FACD0FAC disconnected, not authorised.
-1759004319: New connection from 192.168.65.1:56479 on port 8887.
-1759004319: Client auto-A3ACBDAA-AD98-E0DC-B287-282D72938FB4 disconnected, not authorised.
-1759004718: mosquitto version 2.0.22 terminating
-1759004718: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759004727: mosquitto version 2.0.22 starting
-1759004727: Config loaded from /mosquitto/config/mosquitto.conf.
-1759004727: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759520511: Opening ipv4 listen socket on port 1887.
+1759520511: Opening ipv4 listen socket on port 8887.
+1759520511: mosquitto version 2.0.22 running
+1759520512: New connection from 192.168.65.1:26151 on port 8887.
+1759520512: New client connected from 192.168.65.1:26151 as auto-769B71CB-7C60-E023-4D54-C7DC7A341AA8 (p2, c1, k60, u'aluno87').
+1759520531: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759520815: mosquitto version 2.0.22 terminating
+1759520815: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759520817: mosquitto version 2.0.22 starting
+1759520817: Config loaded from /mosquitto/config/mosquitto.conf.
+1759520817: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759004727: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759520817: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759004727: Opening ipv4 listen socket on port 1887.
-1759004727: Opening ipv4 listen socket on port 8887.
-1759004727: mosquitto version 2.0.22 running
-1759004761: New connection from 192.168.65.1:44969 on port 8887.
-1759004761: Client auto-1F425071-4092-57B1-4418-BD919A88A96F disconnected, not authorised.
-1759004779: New connection from 192.168.65.1:28252 on port 8887.
-1759004779: Client auto-A43C79BA-4228-9A79-D262-EAD480CBADF8 disconnected, not authorised.
-<<<<<<< Updated upstream
-1759005881: New connection from 192.168.65.1:52093 on port 8887.
-1759005881: Client auto-B3B4CB09-6BC2-2936-A803-4AD0CA760C62 disconnected, not authorised.
-1759005896: New connection from 192.168.65.1:34287 on port 8887.
-1759005896: OpenSSL Error[0]: error:0A00009C:SSL routines::http request
-1759005896: Client <unknown> disconnected: Protocol error.
-1759005897: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
-1759005902: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
-1759005932: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
-1759006152: New connection from 192.168.65.1:48336 on port 8887.
-1759006152: Client auto-BB3C5E6F-508A-D2F7-93C3-7DDD2AB7A356 disconnected, not authorised.
-1759006157: New connection from 192.168.65.1:20689 on port 8887.
-1759006157: Client auto-7C7383A3-7F45-7847-CA04-8A4D75E6E878 disconnected, not authorised.
-1759006528: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759007237: Client connection from 192.168.65.1 failed: error:0A00009C:SSL routines::http request.
-1759007272: New connection from 192.168.65.1:36837 on port 8887.
-1759007272: Client auto-D98FD49D-562B-9E2B-143D-31641D16C924 disconnected, not authorised.
-1759007286: New connection from 192.168.65.1:59570 on port 8887.
-1759007286: Client auto-8F81C0DD-1306-6B04-C068-BB2E61A7001E disconnected, not authorised.
-1759007624: New connection from 192.168.65.1:52017 on port 8887.
-1759007624: Client auto-579758C4-3946-7738-372F-C4E9D87161ED disconnected, not authorised.
-1759008329: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759010130: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759011931: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759013731: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759015533: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759017334: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759019135: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759020936: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759022522: mosquitto version 2.0.22 terminating
-1759022522: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759078388: mosquitto version 2.0.22 starting
-1759078388: Config loaded from /mosquitto/config/mosquitto.conf.
-1759078388: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759520817: Opening ipv4 listen socket on port 1887.
+1759520817: Opening ipv4 listen socket on port 8887.
+1759520817: mosquitto version 2.0.22 running
+1759520818: New connection from 192.168.65.1:27156 on port 8887.
+1759520818: New client connected from 192.168.65.1:27156 as auto-94AE33C8-7766-5ED5-478E-6FFCB961197E (p2, c1, k60, u'aluno87').
+1759520840: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759520854: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759520989: mosquitto version 2.0.22 terminating
+1759520989: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759520991: mosquitto version 2.0.22 starting
+1759520991: Config loaded from /mosquitto/config/mosquitto.conf.
+1759520991: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759078388: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759520991: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759078388: Opening ipv4 listen socket on port 1887.
-1759078388: Opening ipv4 listen socket on port 8887.
-1759078388: mosquitto version 2.0.22 running
-1759078483: New connection from 192.168.65.1:57749 on port 1887.
-1759078483: Client auto-835764C3-F8EC-259F-4EFA-0C5C6C906B84 disconnected, not authorised.
-1759078519: New connection from 192.168.65.1:31605 on port 1887.
-1759078519: Client auto-CFFD21A2-207D-BB6B-0BC4-482CD1727F8C disconnected, not authorised.
-1759078582: New connection from 192.168.65.1:17037 on port 8887.
-1759078582: Client auto-ACF1684E-A6CD-9B0B-D352-BEA9584F6A69 disconnected, not authorised.
-1759078727: New connection from 192.168.65.1:36110 on port 8887.
-1759078727: Client auto-15D21E9F-4BD5-34EC-6F42-1F5C00E7B3D5 disconnected, not authorised.
-1759078887: New connection from 192.168.65.1:56614 on port 8887.
-1759078887: Client auto-F3974E88-2A4A-D225-8C5A-68AF5B0136E4 disconnected, not authorised.
-1759080188: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759081989: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759083790: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759085591: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759087392: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759089193: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759090994: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759092795: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759094391: New connection from 192.168.65.1:19122 on port 8887.
-1759094391: Client auto-883164DA-11A6-581A-1E9C-ED75A984E16B disconnected, not authorised.
-1759173635: mosquitto version 2.0.22 starting
-1759173635: Config loaded from /mosquitto/config/mosquitto.conf.
-1759173635: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759520991: Opening ipv4 listen socket on port 1887.
+1759520991: Opening ipv4 listen socket on port 8887.
+1759520991: mosquitto version 2.0.22 running
+1759520992: New connection from 192.168.65.1:59068 on port 8887.
+1759520992: New client connected from 192.168.65.1:59068 as auto-5ACFC503-94DE-AC85-B187-132F931909A5 (p2, c1, k60, u'aluno87').
+1759521021: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759521315: mosquitto version 2.0.22 terminating
+1759521315: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759521319: mosquitto version 2.0.22 starting
+1759521319: Config loaded from /mosquitto/config/mosquitto.conf.
+1759521319: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759173635: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759521319: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759173635: Opening ipv4 listen socket on port 1887.
-1759173635: Opening ipv4 listen socket on port 8887.
-1759173635: mosquitto version 2.0.22 running
-1759173728: New connection from 172.18.0.1:37838 on port 8887.
-1759173728: Client auto-0E7D120F-9C3E-BEF6-DAF9-A4EA4CB3284A disconnected, not authorised.
-1759173758: New connection from 172.18.0.1:34166 on port 8887.
-1759173758: Client auto-936FFB8B-06F6-43D2-00AC-CA99935BA4D4 disconnected, not authorised.
-1759173770: New connection from 172.18.0.1:56024 on port 8887.
-1759173770: Client auto-A8B06754-EDA2-A5C8-AFD4-D221FEC99142 disconnected, not authorised.
-1759173799: New connection from 172.18.0.1:54974 on port 8887.
-1759173799: Client auto-18D543B7-2C48-3F83-0CEE-7AE151A65D74 disconnected, not authorised.
-1759174456: New connection from 172.18.0.1:58096 on port 8887.
-1759174456: Client auto-2F670799-B73A-1835-E7FB-79BAD2BAF9C7 disconnected, not authorised.
-1759174491: New connection from 172.18.0.1:38422 on port 8887.
-1759174491: Client auto-B0F21CA8-B2D9-264D-5E82-AEFCC195C5AE disconnected, not authorised.
-1759174769: mosquitto version 2.0.22 terminating
-1759174769: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759174772: mosquitto version 2.0.22 starting
-1759174772: Config loaded from /mosquitto/config/mosquitto.conf.
-1759174772: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759521319: Opening ipv4 listen socket on port 1887.
+1759521319: Opening ipv4 listen socket on port 8887.
+1759521319: mosquitto version 2.0.22 running
+1759521320: New connection from 192.168.65.1:35690 on port 8887.
+1759521320: New client connected from 192.168.65.1:35690 as auto-84640C26-B064-DFEF-6760-D7A801EFAF05 (p2, c1, k60, u'aluno87').
+1759521348: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759521370: New connection from 192.168.65.1:52717 on port 8887.
+1759521373: New client connected from 192.168.65.1:52717 as aluno87 (p2, c1, k60, u'aluno87').
+1759521425: mosquitto version 2.0.22 terminating
+1759521425: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759521427: mosquitto version 2.0.22 starting
+1759521427: Config loaded from /mosquitto/config/mosquitto.conf.
+1759521427: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759174772: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759521427: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759174772: Opening ipv4 listen socket on port 1887.
-1759174772: Opening ipv4 listen socket on port 8887.
-1759174772: mosquitto version 2.0.22 running
-1759174780: New connection from 172.18.0.1:39616 on port 8887.
-1759174780: Client auto-D94E647E-8D92-E8E1-3514-E72D83C1E7FA disconnected, not authorised.
-1759174788: New connection from 172.18.0.1:48960 on port 8887.
-1759174788: Client auto-0338D81D-488A-285B-4ACF-B5870B802A88 disconnected, not authorised.
-1759174790: New connection from 172.18.0.1:48970 on port 8887.
-1759174790: Client auto-25947F03-4D22-71A5-DC0F-76B2EA2E6664 disconnected, not authorised.
-1759174795: New connection from 172.18.0.1:37738 on port 8887.
-1759174795: Client auto-A2D8CFE4-46DA-F919-649D-216531F695B0 disconnected, not authorised.
-1759174830: mosquitto version 2.0.22 terminating
-1759174830: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759174834: mosquitto version 2.0.22 starting
-1759174834: Config loaded from /mosquitto/config/mosquitto.conf.
-1759174834: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759521427: Opening ipv4 listen socket on port 1887.
+1759521427: Opening ipv4 listen socket on port 8887.
+1759521427: mosquitto version 2.0.22 running
+1759521428: New connection from 192.168.65.1:29974 on port 8887.
+1759521428: New client connected from 192.168.65.1:29974 as auto-28AC2405-7E72-78DB-D631-AAA471BABBB1 (p2, c1, k60, u'aluno87').
+1759521429: mosquitto version 2.0.22 terminating
+1759521429: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759521432: mosquitto version 2.0.22 starting
+1759521432: Config loaded from /mosquitto/config/mosquitto.conf.
+1759521432: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759174834: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759521432: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759174834: Opening ipv4 listen socket on port 1887.
-1759174834: Opening ipv4 listen socket on port 8887.
-1759174834: mosquitto version 2.0.22 running
-1759174846: New connection from 172.18.0.1:44372 on port 8887.
-1759174846: New client connected from 172.18.0.1:44372 as auto-275F40AF-48EE-997A-5312-00C55AD9D15E (p2, c1, k60, u'aluno87').
-1759174956: New connection from 172.18.0.1:52268 on port 8887.
-1759174956: New client connected from 172.18.0.1:52268 as auto-525FB7AB-583A-A749-9975-87B2684A9E7A (p2, c1, k60, u'aluno87').
-1759174956: Client auto-525FB7AB-583A-A749-9975-87B2684A9E7A disconnected.
-1759174986: New connection from 172.18.0.1:60984 on port 8887.
-1759174986: New client connected from 172.18.0.1:60984 as auto-39AE6B23-6AA5-A936-E3B4-AB1825DD7B3A (p2, c1, k60, u'aluno87').
-1759174986: Client auto-39AE6B23-6AA5-A936-E3B4-AB1825DD7B3A disconnected.
-1759175034: New connection from 172.18.0.1:32804 on port 8887.
-1759175034: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
-1759175034: Client <unknown> disconnected: Protocol error.
-1759175048: New connection from 172.18.0.1:43562 on port 8887.
-1759175048: OpenSSL Error[0]: error:0A0000DF:SSL routines::psk identity not found
-1759175048: Client <unknown> disconnected: Protocol error.
-1759175065: New connection from 172.18.0.1:38264 on port 8887.
-1759175065: New client connected from 172.18.0.1:38264 as auto-B52EB5CD-2F91-375E-4725-A75EE49BDD28 (p2, c1, k60, u'aluno87').
-1759175065: Client auto-B52EB5CD-2F91-375E-4725-A75EE49BDD28 disconnected.
-1759175075: New connection from 172.18.0.1:51948 on port 8887.
-1759175075: OpenSSL Error[0]: error:1C800066:Provider routines::cipher operation failed
-1759175075: OpenSSL Error[1]: error:0A000119:SSL routines::decryption failed or bad record mac
-1759175075: OpenSSL Error[2]: error:0A000139:SSL routines::record layer failure
-1759175075: Client <unknown> disconnected: Protocol error.
-1759175079: New connection from 172.18.0.1:51952 on port 8887.
-1759175079: New client connected from 172.18.0.1:51952 as auto-6E7A2CDE-2499-63C6-1804-0DABB4784607 (p2, c1, k60, u'aluno87').
-1759175079: Client auto-6E7A2CDE-2499-63C6-1804-0DABB4784607 disconnected.
-=======
-1759004911: mosquitto version 2.0.22 starting
-1759004911: Config loaded from /mosquitto/config/mosquitto.conf.
-1759004911: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759521432: Opening ipv4 listen socket on port 1887.
+1759521432: Opening ipv4 listen socket on port 8887.
+1759521432: mosquitto version 2.0.22 running
+1759521433: New connection from 192.168.65.1:41489 on port 8887.
+1759521433: New client connected from 192.168.65.1:41489 as auto-E70E44EA-B0C8-E81C-D586-F0A61A19F692 (p2, c1, k60, u'aluno87').
+1759521457: New connection from 192.168.65.1:22768 on port 8887.
+1759521457: New client connected from 192.168.65.1:22768 as aluno87 (p2, c1, k60, u'aluno87').
+1759521457: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759521457: Client auto-E70E44EA-B0C8-E81C-D586-F0A61A19F692 closed its connection.
+1759521464: New connection from 192.168.65.1:36976 on port 8887.
+1759521464: New client connected from 192.168.65.1:36976 as auto-C6084E06-ADF3-ADF3-D41D-522BEE084415 (p2, c1, k60, u'aluno87').
+1759521590: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759521590: Client aluno87 closed its connection.
+1759521591: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759521612: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759521897: New connection from 192.168.65.1:44022 on port 8887.
+1759521897: New client connected from 192.168.65.1:44022 as aluno87 (p2, c1, k60, u'aluno87').
+1759521926: New connection from 192.168.65.1:41252 on port 8887.
+1759521926: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759521926: Client aluno87 closed its connection.
+1759521926: New client connected from 192.168.65.1:41252 as aluno87 (p2, c1, k60, u'aluno87').
+1759521981: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759521981: Client aluno87 closed its connection.
+1759521986: New connection from 192.168.65.1:61827 on port 8887.
+1759521986: New client connected from 192.168.65.1:61827 as aluno87 (p2, c1, k60, u'aluno87').
+1759522022: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759522022: Client aluno87 closed its connection.
+1759522035: New connection from 192.168.65.1:25241 on port 8887.
+1759522038: New client connected from 192.168.65.1:25241 as aluno87 (p2, c1, k60, u'aluno87').
+1759522066: New connection from 192.168.65.1:33498 on port 8887.
+1759522066: Client aluno87 already connected, closing old connection.
+1759522066: New client connected from 192.168.65.1:33498 as aluno87 (p2, c1, k60, u'aluno87').
+1759522081: New connection from 192.168.65.1:21153 on port 8887.
+1759522081: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759522081: Client aluno87 closed its connection.
+1759522081: New client connected from 192.168.65.1:21153 as aluno87 (p2, c1, k60, u'aluno87').
+1759522116: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759522119: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759522119: Client aluno87 closed its connection.
+1759522160: New connection from 192.168.65.1:37910 on port 8887.
+1759522161: OpenSSL Error[0]: error:0A0000C1:SSL routines::no shared cipher
+1759522161: Client <unknown> disconnected: Protocol error.
+1759522213: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759522309: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759522495: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759522554: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759522955: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523062: New connection from 192.168.65.1:42591 on port 8887.
+1759523064: OpenSSL Error[0]: error:0A0000C1:SSL routines::no shared cipher
+1759523064: Client <unknown> disconnected: Protocol error.
+1759523135: mosquitto version 2.0.22 terminating
+1759523135: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759523140: mosquitto version 2.0.22 starting
+1759523140: Config loaded from /mosquitto/config/mosquitto.conf.
+1759523140: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759004911: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759523140: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759004911: Opening ipv4 listen socket on port 1887.
-1759004911: Opening ipv4 listen socket on port 8887.
-1759004911: mosquitto version 2.0.22 running
-1759004917: mosquitto version 2.0.22 terminating
-1759004917: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759004924: mosquitto version 2.0.22 starting
-1759004924: Config loaded from /mosquitto/config/mosquitto.conf.
-1759004924: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759523140: Opening ipv4 listen socket on port 1887.
+1759523140: Opening ipv4 listen socket on port 8887.
+1759523140: mosquitto version 2.0.22 running
+1759523140: New connection from 192.168.65.1:24529 on port 8887.
+1759523140: New client connected from 192.168.65.1:24529 as auto-85497F25-D882-5EE9-5585-43AF07AEA24B (p2, c1, k60, u'aluno87').
+1759523167: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523222: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523255: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523269: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523322: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523339: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523573: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523580: mosquitto version 2.0.22 terminating
+1759523580: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759523665: mosquitto version 2.0.22 starting
+1759523665: Config loaded from /mosquitto/config/mosquitto.conf.
+1759523665: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759004924: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+1759523665: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
-1759004924: Opening ipv4 listen socket on port 1887.
-1759004924: Opening ipv4 listen socket on port 8887.
-1759004924: mosquitto version 2.0.22 running
-1759004933: New connection from 172.18.0.1:54226 on port 1887.
-1759004933: Client <unknown> disconnected due to protocol error.
-1759004934: New connection from 172.18.0.1:54242 on port 1887.
-1759004934: Client <unknown> disconnected due to protocol error.
-1759004934: New connection from 172.18.0.1:54258 on port 1887.
-1759004939: Client <unknown> disconnected due to protocol error.
-1759004939: New connection from 172.18.0.1:49604 on port 1887.
-1759004939: Client <unknown> disconnected due to protocol error.
-1759004939: New connection from 172.18.0.1:49606 on port 1887.
-1759005030: Client <unknown> has exceeded timeout, disconnecting.
-1759005113: New connection from 172.18.0.1:55006 on port 8887.
-1759005113: Client auto-F8B1F623-4A6A-C5D2-5E32-4515DDC837DF disconnected, not authorised.
-1759005303: New connection from 172.18.0.1:54974 on port 8887.
-1759005303: Client auto-D6D84372-B432-7144-E13C-819CB9AA18EC disconnected, not authorised.
-1759005313: New connection from 172.18.0.1:52032 on port 8887.
-1759005313: Client auto-37B0D376-F597-8ACD-FE1E-311D440BF747 disconnected, not authorised.
-1759005334: New connection from 172.18.0.1:38954 on port 8887.
-1759005334: Client auto-3F9C8218-91D5-C946-2AEC-EA529E4A5907 disconnected, not authorised.
-1759005463: New connection from 172.18.0.1:37170 on port 8887.
-1759005463: Client auto-F6B4606C-217E-F5F4-D28F-42ACD86D6818 disconnected, not authorised.
-1759005596: mosquitto version 2.0.22 terminating
-1759005596: Saving in-memory database to /mosquitto/data//mosquitto.db.
-1759005604: mosquitto version 2.0.22 starting
-1759005604: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005604: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759523665: Opening ipv4 listen socket on port 1887.
+1759523665: Opening ipv4 listen socket on port 8887.
+1759523665: mosquitto version 2.0.22 running
+1759523666: New connection from 192.168.65.1:54099 on port 8887.
+1759523666: New client connected from 192.168.65.1:54099 as auto-0FE21B06-DCEF-ECF4-7803-65D15FC13112 (p2, c1, k60, u'aluno87').
+1759523680: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523754: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523767: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523862: mosquitto version 2.0.22 terminating
+1759523862: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759523863: mosquitto version 2.0.22 starting
+1759523863: Config loaded from /mosquitto/config/mosquitto.conf.
+1759523863: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005604: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005604: Error opening acl file "/mosquitto/config/acl.conf".
-1759005604: mosquitto version 2.0.22 starting
-1759005604: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005604: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759523863: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759523863: Opening ipv4 listen socket on port 1887.
+1759523863: Opening ipv4 listen socket on port 8887.
+1759523863: mosquitto version 2.0.22 running
+1759523864: New connection from 192.168.65.1:36226 on port 8887.
+1759523864: New client connected from 192.168.65.1:36226 as auto-53376929-7F02-0D11-84DA-151A459766C4 (p2, c1, k60, u'aluno87').
+1759523866: mosquitto version 2.0.22 terminating
+1759523866: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759523870: mosquitto version 2.0.22 starting
+1759523870: Config loaded from /mosquitto/config/mosquitto.conf.
+1759523870: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005604: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005604: Error opening acl file "/mosquitto/config/acl.conf".
-1759005605: mosquitto version 2.0.22 starting
-1759005605: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005605: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759523870: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759523870: Opening ipv4 listen socket on port 1887.
+1759523870: Opening ipv4 listen socket on port 8887.
+1759523870: mosquitto version 2.0.22 running
+1759523870: New connection from 192.168.65.1:27347 on port 8887.
+1759523870: New client connected from 192.168.65.1:27347 as auto-319E2277-FAE5-C2B8-A91E-FB63CB5354F7 (p2, c1, k60, u'aluno87').
+1759523888: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759523934: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524033: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524053: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524208: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524260: mosquitto version 2.0.22 terminating
+1759524260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759524261: mosquitto version 2.0.22 starting
+1759524261: Config loaded from /mosquitto/config/mosquitto.conf.
+1759524261: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005605: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005605: Error opening acl file "/mosquitto/config/acl.conf".
-1759005606: mosquitto version 2.0.22 starting
-1759005606: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005606: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759524261: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759524261: Opening ipv4 listen socket on port 1887.
+1759524261: Opening ipv4 listen socket on port 8887.
+1759524261: mosquitto version 2.0.22 running
+1759524261: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524261: New connection from 192.168.65.1:25028 on port 8887.
+1759524261: New client connected from 192.168.65.1:25028 as auto-6F8F0F0A-8351-0010-0EDD-48221A727944 (p2, c1, k60, u'aluno87').
+1759524296: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524511: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759524566: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759525097: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759525155: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759526061: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759527642: New connection from 192.168.65.1:61247 on port 8887.
+1759527644: OpenSSL Error[0]: error:0A0000C1:SSL routines::no shared cipher
+1759527644: Client <unknown> disconnected: Protocol error.
+1759527658: New connection from 192.168.65.1:57394 on port 8887.
+1759527660: OpenSSL Error[0]: error:0A0000C1:SSL routines::no shared cipher
+1759527660: Client <unknown> disconnected: Protocol error.
+1759527862: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759527881: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759527894: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759527994: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759528076: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759528282: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759528467: mosquitto version 2.0.22 terminating
+1759528467: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759528510: mosquitto version 2.0.22 starting
+1759528510: Config loaded from /mosquitto/config/mosquitto.conf.
+1759528510: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005606: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005606: Error opening acl file "/mosquitto/config/acl.conf".
-1759005607: mosquitto version 2.0.22 starting
-1759005607: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005607: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759528510: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759528510: Opening ipv4 listen socket on port 1887.
+1759528510: Opening ipv4 listen socket on port 8887.
+1759528510: mosquitto version 2.0.22 running
+1759528510: New connection from 192.168.65.1:49884 on port 8887.
+1759528510: New client connected from 192.168.65.1:49884 as auto-DE069EB0-314E-AFA1-2F26-813D0BAFD7DE (p2, c1, k60, u'aluno87').
+1759528543: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759528747: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759528882: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759529249: mosquitto version 2.0.22 terminating
+1759529249: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759529257: mosquitto version 2.0.22 starting
+1759529257: Config loaded from /mosquitto/config/mosquitto.conf.
+1759529257: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005607: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005607: Error opening acl file "/mosquitto/config/acl.conf".
-1759005609: mosquitto version 2.0.22 starting
-1759005609: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005609: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759529257: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759529257: Opening ipv4 listen socket on port 1887.
+1759529257: Opening ipv4 listen socket on port 8887.
+1759529257: mosquitto version 2.0.22 running
+1759529257: New connection from 192.168.65.1:55637 on port 8887.
+1759529257: New client connected from 192.168.65.1:55637 as auto-7D0BAF6F-5E6C-FF90-3B50-AC01CFFE70F2 (p2, c1, k60, u'aluno87').
+1759529286: mosquitto version 2.0.22 terminating
+1759529286: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759529293: mosquitto version 2.0.22 starting
+1759529293: Config loaded from /mosquitto/config/mosquitto.conf.
+1759529293: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005609: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005609: Error opening acl file "/mosquitto/config/acl.conf".
-1759005612: mosquitto version 2.0.22 starting
-1759005612: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005612: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+1759529293: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759529293: Opening ipv4 listen socket on port 1887.
+1759529293: Opening ipv4 listen socket on port 8887.
+1759529293: mosquitto version 2.0.22 running
+1759529294: New connection from 192.168.65.1:29170 on port 8887.
+1759529294: New client connected from 192.168.65.1:29170 as auto-C9445CE8-F3EA-201D-AE65-4FFBF8A1CCBE (p2, c1, k60, u'aluno87').
+1759529304: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530008: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530035: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530058: mosquitto version 2.0.22 starting
+1759530058: Config loaded from /mosquitto/config/mosquitto.conf.
+1759530058: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
 To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005612: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005612: Error opening acl file "/mosquitto/config/acl.conf".
-1759005619: mosquitto version 2.0.22 starting
-1759005619: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005619: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005619: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005619: Error opening acl file "/mosquitto/config/acl.conf".
-1759005632: mosquitto version 2.0.22 starting
-1759005632: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005632: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005632: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005632: Error opening acl file "/mosquitto/config/acl.conf".
-1759005658: mosquitto version 2.0.22 starting
-1759005658: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005658: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005658: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005658: Error opening acl file "/mosquitto/config/acl.conf".
-1759005709: mosquitto version 2.0.22 starting
-1759005709: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005709: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005709: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005709: Error opening acl file "/mosquitto/config/acl.conf".
-1759005770: mosquitto version 2.0.22 starting
-1759005770: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005770: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005770: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005770: Error opening acl file "/mosquitto/config/acl.conf".
-1759005830: mosquitto version 2.0.22 starting
-1759005830: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005830: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005830: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005830: Error opening acl file "/mosquitto/config/acl.conf".
-1759005890: mosquitto version 2.0.22 starting
-1759005890: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005890: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005890: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005890: Error opening acl file "/mosquitto/config/acl.conf".
-1759005950: mosquitto version 2.0.22 starting
-1759005950: Config loaded from /mosquitto/config/mosquitto.conf.
-1759005950: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759005950: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759005950: Error opening acl file "/mosquitto/config/acl.conf".
-1759006011: mosquitto version 2.0.22 starting
-1759006011: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006011: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006011: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006011: Error opening acl file "/mosquitto/config/acl.conf".
-1759006071: mosquitto version 2.0.22 starting
-1759006071: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006071: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006071: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006071: Error opening acl file "/mosquitto/config/acl.conf".
-1759006131: mosquitto version 2.0.22 starting
-1759006131: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006131: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006131: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006131: Error opening acl file "/mosquitto/config/acl.conf".
-1759006191: mosquitto version 2.0.22 starting
-1759006191: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006191: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006191: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006191: Error opening acl file "/mosquitto/config/acl.conf".
-1759006252: mosquitto version 2.0.22 starting
-1759006252: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006252: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006252: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006252: Error opening acl file "/mosquitto/config/acl.conf".
-1759006312: mosquitto version 2.0.22 starting
-1759006312: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006312: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006312: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006312: Error opening acl file "/mosquitto/config/acl.conf".
-1759006372: mosquitto version 2.0.22 starting
-1759006372: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006372: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006372: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006372: Error opening acl file "/mosquitto/config/acl.conf".
-1759006432: mosquitto version 2.0.22 starting
-1759006432: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006432: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006432: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006432: Error opening acl file "/mosquitto/config/acl.conf".
-1759006493: mosquitto version 2.0.22 starting
-1759006493: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006493: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006493: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006493: Error opening acl file "/mosquitto/config/acl.conf".
-1759006553: mosquitto version 2.0.22 starting
-1759006553: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006553: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006553: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006553: Error opening acl file "/mosquitto/config/acl.conf".
-1759006613: mosquitto version 2.0.22 starting
-1759006613: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006613: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006613: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006613: Error opening acl file "/mosquitto/config/acl.conf".
-1759006673: mosquitto version 2.0.22 starting
-1759006673: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006673: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006673: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006673: Error opening acl file "/mosquitto/config/acl.conf".
-1759006734: mosquitto version 2.0.22 starting
-1759006734: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006734: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006734: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006734: Error opening acl file "/mosquitto/config/acl.conf".
-1759006794: mosquitto version 2.0.22 starting
-1759006794: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006794: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006794: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006794: Error opening acl file "/mosquitto/config/acl.conf".
-1759006854: mosquitto version 2.0.22 starting
-1759006854: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006854: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006854: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006854: Error opening acl file "/mosquitto/config/acl.conf".
-1759006915: mosquitto version 2.0.22 starting
-1759006915: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006915: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006915: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006915: Error opening acl file "/mosquitto/config/acl.conf".
-1759006975: mosquitto version 2.0.22 starting
-1759006975: Config loaded from /mosquitto/config/mosquitto.conf.
-1759006975: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759006975: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759006975: Error opening acl file "/mosquitto/config/acl.conf".
-1759007035: mosquitto version 2.0.22 starting
-1759007035: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007035: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007035: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007035: Error opening acl file "/mosquitto/config/acl.conf".
-1759007095: mosquitto version 2.0.22 starting
-1759007095: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007095: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007095: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007095: Error opening acl file "/mosquitto/config/acl.conf".
-1759007156: mosquitto version 2.0.22 starting
-1759007156: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007156: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007156: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007156: Error opening acl file "/mosquitto/config/acl.conf".
-1759007216: mosquitto version 2.0.22 starting
-1759007216: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007216: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007216: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007216: Error opening acl file "/mosquitto/config/acl.conf".
-1759007276: mosquitto version 2.0.22 starting
-1759007276: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007276: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007276: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007276: Error opening acl file "/mosquitto/config/acl.conf".
-1759007336: mosquitto version 2.0.22 starting
-1759007336: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007336: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007336: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007336: Error opening acl file "/mosquitto/config/acl.conf".
-1759007397: mosquitto version 2.0.22 starting
-1759007397: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007397: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007397: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007397: Error opening acl file "/mosquitto/config/acl.conf".
-1759007457: mosquitto version 2.0.22 starting
-1759007457: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007457: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007457: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007457: Error opening acl file "/mosquitto/config/acl.conf".
-1759007517: mosquitto version 2.0.22 starting
-1759007517: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007517: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007517: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007517: Error opening acl file "/mosquitto/config/acl.conf".
-1759007578: mosquitto version 2.0.22 starting
-1759007578: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007578: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007578: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007578: Error opening acl file "/mosquitto/config/acl.conf".
-1759007638: mosquitto version 2.0.22 starting
-1759007638: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007638: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007638: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007638: Error opening acl file "/mosquitto/config/acl.conf".
-1759007698: mosquitto version 2.0.22 starting
-1759007698: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007698: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007698: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007698: Error opening acl file "/mosquitto/config/acl.conf".
-1759007758: mosquitto version 2.0.22 starting
-1759007758: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007758: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007758: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007758: Error opening acl file "/mosquitto/config/acl.conf".
-1759007819: mosquitto version 2.0.22 starting
-1759007819: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007819: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007819: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007819: Error opening acl file "/mosquitto/config/acl.conf".
-1759007879: mosquitto version 2.0.22 starting
-1759007879: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007879: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007879: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007879: Error opening acl file "/mosquitto/config/acl.conf".
-1759007939: mosquitto version 2.0.22 starting
-1759007939: Config loaded from /mosquitto/config/mosquitto.conf.
-1759007939: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759007939: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759007939: Error opening acl file "/mosquitto/config/acl.conf".
-1759008000: mosquitto version 2.0.22 starting
-1759008000: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008000: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008000: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008000: Error opening acl file "/mosquitto/config/acl.conf".
-1759008060: mosquitto version 2.0.22 starting
-1759008060: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008060: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008060: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008060: Error opening acl file "/mosquitto/config/acl.conf".
-1759008077: mosquitto version 2.0.22 starting
-1759008077: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008077: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008077: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008077: Error opening acl file "/mosquitto/config/acl.conf".
-1759008078: mosquitto version 2.0.22 starting
-1759008078: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008078: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008078: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008078: Error opening acl file "/mosquitto/config/acl.conf".
-1759008078: mosquitto version 2.0.22 starting
-1759008078: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008078: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008078: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008078: Error opening acl file "/mosquitto/config/acl.conf".
-1759008079: mosquitto version 2.0.22 starting
-1759008079: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008079: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008079: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008079: Error opening acl file "/mosquitto/config/acl.conf".
-1759008080: mosquitto version 2.0.22 starting
-1759008080: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008080: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008080: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008080: Error opening acl file "/mosquitto/config/acl.conf".
-1759008082: mosquitto version 2.0.22 starting
-1759008082: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008082: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008082: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008082: Error opening acl file "/mosquitto/config/acl.conf".
-1759008085: mosquitto version 2.0.22 starting
-1759008085: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008085: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008085: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008085: Error opening acl file "/mosquitto/config/acl.conf".
-1759008092: mosquitto version 2.0.22 starting
-1759008092: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008092: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008092: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008092: Error opening acl file "/mosquitto/config/acl.conf".
-1759008105: mosquitto version 2.0.22 starting
-1759008105: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008105: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008105: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008105: Error opening acl file "/mosquitto/config/acl.conf".
-1759008131: mosquitto version 2.0.22 starting
-1759008131: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008131: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008131: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008131: Error opening acl file "/mosquitto/config/acl.conf".
-1759008182: mosquitto version 2.0.22 starting
-1759008182: Config loaded from /mosquitto/config/mosquitto.conf.
-1759008182: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
-To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
-1759008182: Error: Invalid ACL topic "/aluno87/bitdoglab/#'" in acl_file "/mosquitto/config/acl.conf".
-1759008182: Error opening acl file "/mosquitto/config/acl.conf".
->>>>>>> Stashed changes
+1759530058: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759530058: Opening ipv4 listen socket on port 1887.
+1759530058: Opening ipv4 listen socket on port 8887.
+1759530058: mosquitto version 2.0.22 running
+1759530078: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530128: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530263: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530410: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530507: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530569: Client connection from 192.168.65.1 failed: error:0A0000C1:SSL routines::no shared cipher.
+1759530826: New connection from 192.168.65.1:49361 on port 8887.
+1759530829: New client connected from 192.168.65.1:49361 as aluno87 (p2, c1, k60, u'aluno87').
+1759530874: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759530874: Client aluno87 closed its connection.
+1759530893: New connection from 192.168.65.1:40167 on port 8887.
+1759530893: New client connected from 192.168.65.1:40167 as auto-C421B68C-27AD-41E5-331F-080583D5445C (p2, c1, k60, u'aluno87').
+1759531150: New connection from 192.168.65.1:39560 on port 8887.
+1759531155: New client connected from 192.168.65.1:39560 as aluno87 (p2, c1, k60, u'aluno87').
+1759531859: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759533020: Client aluno87 has exceeded timeout, disconnecting.
+1759534558: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759536359: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759541928: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759543729: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759547840: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759549641: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759554493: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759556294: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759559027: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759560828: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759566584: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759568927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759570728: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759574416: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759576217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759581461: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759583262: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759589353: Saving in-memory database to /mosquitto/data//mosquitto.db.

@@ -63,3 +63,120 @@
 1759089105: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759090906: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759092707: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759505109: mosquitto version 2.0.22 starting
+1759505109: Config loaded from /mosquitto/config/mosquitto.conf.
+1759505109: Opening ipv4 listen socket on port 1883.
+1759505109: Opening ipv6 listen socket on port 1883.
+1759505109: mosquitto version 2.0.22 running
+1759506909: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759508710: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759509862: New connection from 172.18.0.1:55654 on port 1883.
+1759509862: Client <unknown> disconnected due to protocol error.
+1759510174: New connection from 172.18.0.1:60156 on port 1883.
+1759510175: Client <unknown> disconnected due to protocol error.
+1759510511: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759510810: New connection from 172.18.0.1:63284 on port 1883.
+1759510810: Client <unknown> disconnected due to protocol error.
+1759510853: New connection from 172.18.0.1:60240 on port 1883.
+1759510853: Client <unknown> disconnected due to protocol error.
+1759510867: New connection from 172.18.0.1:61936 on port 1883.
+1759510867: Client <unknown> disconnected due to protocol error.
+1759511333: New connection from 172.18.0.1:58668 on port 1883.
+1759511333: Client <unknown> disconnected due to protocol error.
+1759511346: New connection from 172.18.0.1:58988 on port 1883.
+1759511346: Client <unknown> disconnected due to protocol error.
+1759511416: New connection from 172.18.0.1:57936 on port 1883.
+1759511416: Client <unknown> disconnected due to protocol error.
+1759511448: New connection from 172.18.0.1:55558 on port 1883.
+1759511449: Client <unknown> disconnected due to protocol error.
+1759511769: New connection from 172.18.0.1:64088 on port 1883.
+1759511769: Client <unknown> disconnected due to protocol error.
+1759512312: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759512813: New connection from 172.18.0.1:57360 on port 1883.
+1759512813: Client <unknown> disconnected due to protocol error.
+1759512852: New connection from 172.18.0.1:58474 on port 1883.
+1759512852: Client <unknown> disconnected due to protocol error.
+1759512922: New connection from 172.18.0.1:60888 on port 1883.
+1759512922: Client <unknown> disconnected due to protocol error.
+1759512950: New connection from 172.18.0.1:55666 on port 1883.
+1759512950: Client <unknown> disconnected due to protocol error.
+1759512974: New connection from 172.18.0.1:59836 on port 1883.
+1759512974: Client <unknown> disconnected due to protocol error.
+1759513048: New connection from 172.18.0.1:55416 on port 1883.
+1759513048: Client <unknown> disconnected due to protocol error.
+1759513061: New connection from 172.18.0.1:63410 on port 1883.
+1759513061: Client <unknown> disconnected due to protocol error.
+1759513229: New connection from 172.18.0.1:58224 on port 1883.
+1759513229: Client <unknown> disconnected due to protocol error.
+1759513266: New connection from 172.18.0.1:57416 on port 1883.
+1759513266: Client <unknown> disconnected due to protocol error.
+1759513809: New connection from 172.18.0.1:64216 on port 1883.
+1759513809: Client <unknown> disconnected due to protocol error.
+1759513872: New connection from 172.18.0.1:62718 on port 1883.
+1759513872: Client <unknown> disconnected due to protocol error.
+1759513887: New connection from 172.18.0.1:59812 on port 1883.
+1759513887: Client <unknown> disconnected due to protocol error.
+1759514042: New connection from 172.18.0.1:59280 on port 1883.
+1759514042: Client <unknown> disconnected due to protocol error.
+1759514114: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759514135: New connection from 172.18.0.1:63784 on port 1883.
+1759514135: Client <unknown> disconnected due to protocol error.
+1759514646: New connection from 172.18.0.1:62692 on port 1883.
+1759514646: Client <unknown> disconnected due to protocol error.
+1759514677: New connection from 172.18.0.1:56964 on port 1883.
+1759514677: Client <unknown> disconnected due to protocol error.
+1759514714: New connection from 172.18.0.1:56982 on port 1883.
+1759514714: Client <unknown> disconnected due to protocol error.
+1759514742: New connection from 172.18.0.1:59028 on port 1883.
+1759514742: Client <unknown> disconnected due to protocol error.
+1759515074: New connection from 172.18.0.1:59300 on port 1883.
+1759515074: Client <unknown> disconnected due to protocol error.
+1759515101: New connection from 172.18.0.1:60604 on port 1883.
+1759515101: Client <unknown> disconnected due to protocol error.
+1759515135: New connection from 172.18.0.1:64806 on port 1883.
+1759515135: Client <unknown> disconnected due to protocol error.
+1759515151: New connection from 172.18.0.1:60610 on port 1883.
+1759515151: Client <unknown> disconnected due to protocol error.
+1759515185: New connection from 172.18.0.1:63180 on port 1883.
+1759515185: Client <unknown> disconnected due to protocol error.
+1759515213: New connection from 172.18.0.1:62512 on port 1883.
+1759515213: Client <unknown> disconnected due to protocol error.
+1759515370: New connection from 172.18.0.1:58284 on port 1883.
+1759515370: Client <unknown> disconnected due to protocol error.
+1759515645: New connection from 172.18.0.1:57040 on port 1883.
+1759515645: Client <unknown> disconnected due to protocol error.
+1759515805: New connection from 172.18.0.1:55866 on port 1883.
+1759515805: Client <unknown> disconnected due to protocol error.
+1759515836: New connection from 172.18.0.1:56510 on port 1883.
+1759515836: Client <unknown> disconnected due to protocol error.
+1759515850: New connection from 172.18.0.1:63984 on port 1883.
+1759515852: Client <unknown> disconnected due to protocol error.
+1759515904: New connection from 172.18.0.1:58724 on port 1883.
+1759515904: Client <unknown> disconnected due to protocol error.
+1759515915: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759517716: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759519517: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759521318: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759523119: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759524920: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759526721: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759528522: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759530323: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759533022: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759534823: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759536624: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759542193: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759543994: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759548105: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759549906: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759554758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759556559: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759559292: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759561093: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759567391: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759569192: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759571964: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759574681: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759576482: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759581726: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759583527: Saving in-memory database to /mosquitto/data//mosquitto.db.
