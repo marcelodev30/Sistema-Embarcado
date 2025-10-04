@@ -585,3 +585,209 @@ To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
 1759581461: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759583262: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759589353: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759589576: mosquitto version 2.0.22 terminating
+1759589576: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759597351: mosquitto version 2.0.22 starting
+1759597351: Config loaded from /mosquitto/config/mosquitto.conf.
+1759597351: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759597351: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759597351: Opening ipv4 listen socket on port 1887.
+1759597351: Opening ipv4 listen socket on port 8887.
+1759597351: mosquitto version 2.0.22 running
+1759597484: New connection from 192.168.65.1:36658 on port 1887.
+1759597484: Client auto-CE55C89F-536F-CCA2-78EC-EE743688EAFC disconnected, not authorised.
+1759597497: New connection from 192.168.65.1:35003 on port 8887.
+1759597497: New client connected from 192.168.65.1:35003 as auto-B631635D-7AE7-F961-1751-B5C508A0FA67 (p2, c1, k60, u'aluno87').
+1759597497: Client auto-B631635D-7AE7-F961-1751-B5C508A0FA67 disconnected.
+1759597564: New connection from 192.168.65.1:37045 on port 8887.
+1759597564: New client connected from 192.168.65.1:37045 as auto-8EC5D345-7517-5C26-7E16-FF7ABEB3BD1D (p2, c1, k60, u'aluno87').
+1759597568: New connection from 192.168.65.1:59394 on port 8887.
+1759597568: New client connected from 192.168.65.1:59394 as auto-28B63FDB-E8A8-06AA-894F-7B0F360C5430 (p2, c1, k60, u'aluno87').
+1759597568: Client auto-28B63FDB-E8A8-06AA-894F-7B0F360C5430 disconnected.
+1759597588: New connection from 192.168.65.1:41765 on port 8887.
+1759597588: New client connected from 192.168.65.1:41765 as auto-AA2C7CE9-5E6C-F9FE-664A-52BF907D5A92 (p2, c1, k60, u'aluno87').
+1759597588: Client auto-AA2C7CE9-5E6C-F9FE-664A-52BF907D5A92 disconnected.
+1759597602: New connection from 192.168.65.1:60696 on port 8887.
+1759597602: New client connected from 192.168.65.1:60696 as auto-5BAE5043-67B6-D8EF-DCE3-14D790C3F7D8 (p2, c1, k60, u'aluno87').
+1759597605: New connection from 192.168.65.1:22856 on port 8887.
+1759597605: New client connected from 192.168.65.1:22856 as auto-395A35CD-5EBD-0C1F-B93B-8C6CAF47E85E (p2, c1, k60, u'aluno87').
+1759597605: Client auto-395A35CD-5EBD-0C1F-B93B-8C6CAF47E85E disconnected.
+1759597608: New connection from 192.168.65.1:43601 on port 8887.
+1759597608: New client connected from 192.168.65.1:43601 as auto-DD614D67-1301-EB92-EE5C-CAFB26BFC911 (p2, c1, k60, u'aluno87').
+1759597608: Client auto-DD614D67-1301-EB92-EE5C-CAFB26BFC911 disconnected.
+1759597636: New connection from 192.168.65.1:52909 on port 8887.
+1759597636: New client connected from 192.168.65.1:52909 as auto-0B0AC3DB-60C4-693D-00FE-2CD3C6210ED9 (p2, c1, k60, u'aluno87').
+1759597638: New connection from 192.168.65.1:55259 on port 8887.
+1759597638: New client connected from 192.168.65.1:55259 as auto-ED2E6805-E911-921F-DCF1-E5A573F92CAE (p2, c1, k60, u'aluno87').
+1759597638: Client auto-ED2E6805-E911-921F-DCF1-E5A573F92CAE disconnected.
+1759597640: New connection from 192.168.65.1:48046 on port 8887.
+1759597640: New client connected from 192.168.65.1:48046 as auto-55D7B3E1-F861-CA5E-9719-7BD5DF22192B (p2, c1, k60, u'aluno87').
+1759597640: Client auto-55D7B3E1-F861-CA5E-9719-7BD5DF22192B disconnected.
+1759597641: New connection from 192.168.65.1:57314 on port 8887.
+1759597641: New client connected from 192.168.65.1:57314 as auto-B1EE5F1D-3858-26FF-CDF8-F2FBBC6C84C7 (p2, c1, k60, u'aluno87').
+1759597641: Client auto-B1EE5F1D-3858-26FF-CDF8-F2FBBC6C84C7 disconnected.
+1759597641: New connection from 192.168.65.1:52766 on port 8887.
+1759597641: New client connected from 192.168.65.1:52766 as auto-8662BF85-36C3-9D42-7EBB-142443466D1F (p2, c1, k60, u'aluno87').
+1759597641: Client auto-8662BF85-36C3-9D42-7EBB-142443466D1F disconnected.
+1759597642: New connection from 192.168.65.1:53867 on port 8887.
+1759597642: New client connected from 192.168.65.1:53867 as auto-4F39A1FF-EA7E-BDD5-FDFC-DF2B3CC13257 (p2, c1, k60, u'aluno87').
+1759597642: Client auto-4F39A1FF-EA7E-BDD5-FDFC-DF2B3CC13257 disconnected.
+1759597643: New connection from 192.168.65.1:40136 on port 8887.
+1759597643: New client connected from 192.168.65.1:40136 as auto-8F97847B-C307-FB23-EB5D-F58B3F86F567 (p2, c1, k60, u'aluno87').
+1759597643: Client auto-8F97847B-C307-FB23-EB5D-F58B3F86F567 disconnected.
+1759597643: New connection from 192.168.65.1:24414 on port 8887.
+1759597643: New client connected from 192.168.65.1:24414 as auto-1F3A8528-7601-A723-1E59-F49A7DB61B96 (p2, c1, k60, u'aluno87').
+1759597643: Client auto-1F3A8528-7601-A723-1E59-F49A7DB61B96 disconnected.
+1759597644: New connection from 192.168.65.1:48860 on port 8887.
+1759597644: New client connected from 192.168.65.1:48860 as auto-337CCD3E-2F8A-6E72-B0BA-4009D91CC757 (p2, c1, k60, u'aluno87').
+1759597644: Client auto-337CCD3E-2F8A-6E72-B0BA-4009D91CC757 disconnected.
+1759597654: Client auto-8EC5D345-7517-5C26-7E16-FF7ABEB3BD1D has exceeded timeout, disconnecting.
+1759597656: Client auto-0B0AC3DB-60C4-693D-00FE-2CD3C6210ED9 disconnected.
+1759597693: Client auto-5BAE5043-67B6-D8EF-DCE3-14D790C3F7D8 has exceeded timeout, disconnecting.
+1759597729: mosquitto version 2.0.22 terminating
+1759597729: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759597731: mosquitto version 2.0.22 starting
+1759597731: Config loaded from /mosquitto/config/mosquitto.conf.
+1759597731: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759597731: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759597731: Opening ipv4 listen socket on port 1887.
+1759597731: Opening ipv4 listen socket on port 8887.
+1759597731: mosquitto version 2.0.22 running
+1759597768: New connection from 192.168.65.1:38239 on port 8887.
+1759597768: New client connected from 192.168.65.1:38239 as auto-56E3E504-C645-381B-97CA-0604E455F220 (p2, c1, k60, u'aluno87').
+1759597770: New connection from 192.168.65.1:64721 on port 8887.
+1759597770: New client connected from 192.168.65.1:64721 as auto-9D846FBE-1021-302D-C760-0A2A4E9D12BF (p2, c1, k60, u'aluno87').
+1759597770: Client auto-9D846FBE-1021-302D-C760-0A2A4E9D12BF disconnected.
+1759597772: New connection from 192.168.65.1:28740 on port 8887.
+1759597772: New client connected from 192.168.65.1:28740 as auto-B81FDA3C-BA86-240B-FB43-B95F8C3645B3 (p2, c1, k60, u'aluno87').
+1759597772: Client auto-B81FDA3C-BA86-240B-FB43-B95F8C3645B3 disconnected.
+1759597774: New connection from 192.168.65.1:18877 on port 8887.
+1759597774: New client connected from 192.168.65.1:18877 as auto-CCC17EBA-848C-58B4-5BA4-506AA688EEDD (p2, c1, k60, u'aluno87').
+1759597774: Client auto-CCC17EBA-848C-58B4-5BA4-506AA688EEDD disconnected.
+1759597782: Client auto-56E3E504-C645-381B-97CA-0604E455F220 disconnected.
+1759597797: New connection from 192.168.65.1:27456 on port 8887.
+1759597797: New client connected from 192.168.65.1:27456 as auto-7F61D0A6-A2D7-295D-0395-D019131F7E5D (p2, c1, k60, u'aluno87').
+1759597800: New connection from 192.168.65.1:29354 on port 8887.
+1759597800: New client connected from 192.168.65.1:29354 as auto-26ED3FA4-6778-446D-19BD-ECA908432BCA (p2, c1, k60, u'aluno87').
+1759597800: Client auto-26ED3FA4-6778-446D-19BD-ECA908432BCA disconnected.
+1759597808: New connection from 192.168.65.1:42704 on port 8887.
+1759597808: New client connected from 192.168.65.1:42704 as auto-1F2D7900-67AC-0913-150A-B1D987576A05 (p2, c1, k60, u'aluno87').
+1759597808: Client auto-1F2D7900-67AC-0913-150A-B1D987576A05 disconnected.
+1759597821: Client auto-7F61D0A6-A2D7-295D-0395-D019131F7E5D disconnected.
+1759597841: New connection from 192.168.65.1:61741 on port 8887.
+1759597841: New client connected from 192.168.65.1:61741 as auto-3ACCECB7-05E1-C02A-D309-D0ADF0AE6A13 (p2, c1, k60, u'aluno87').
+1759597841: Client auto-3ACCECB7-05E1-C02A-D309-D0ADF0AE6A13 disconnected.
+1759597843: New connection from 192.168.65.1:16054 on port 8887.
+1759597843: New client connected from 192.168.65.1:16054 as auto-DAF8E386-C583-77B9-62CA-8D4752F97906 (p2, c1, k60, u'aluno87').
+1759597846: New connection from 192.168.65.1:34989 on port 8887.
+1759597846: New client connected from 192.168.65.1:34989 as auto-B7834F88-1476-09E2-989C-8C2437B4B45E (p2, c1, k60, u'aluno87').
+1759597846: Client auto-B7834F88-1476-09E2-989C-8C2437B4B45E disconnected.
+1759597869: New connection from 192.168.65.1:19301 on port 8887.
+1759597869: New client connected from 192.168.65.1:19301 as auto-9B464CF3-9340-D7C8-75C2-8A8BC4BD680F (p2, c1, k60, u'aluno87').
+1759597869: Client auto-9B464CF3-9340-D7C8-75C2-8A8BC4BD680F disconnected.
+1759597884: New connection from 192.168.65.1:26095 on port 8887.
+1759597884: New client connected from 192.168.65.1:26095 as auto-C521A4EC-DDDA-2FCE-A1DE-8DEAEE247032 (p2, c1, k60, u'aluno87').
+1759597884: Client auto-C521A4EC-DDDA-2FCE-A1DE-8DEAEE247032 disconnected.
+1759597927: New connection from 192.168.65.1:65319 on port 8887.
+1759597927: New client connected from 192.168.65.1:65319 as auto-AC529295-5686-1614-089D-89F1D9B6F245 (p2, c1, k60, u'aluno87').
+1759597927: Client auto-AC529295-5686-1614-089D-89F1D9B6F245 disconnected.
+1759597932: Client auto-DAF8E386-C583-77B9-62CA-8D4752F97906 disconnected.
+1759598002: New connection from 192.168.65.1:59913 on port 8887.
+1759598003: New client connected from 192.168.65.1:59913 as auto-2D77A7C2-FD46-6072-0789-234DBC7D5ADB (p2, c1, k60, u'aluno87').
+1759598006: New connection from 192.168.65.1:36765 on port 8887.
+1759598006: New client connected from 192.168.65.1:36765 as auto-98E3B88A-3F08-D308-E3AE-3C3F05136151 (p2, c1, k60, u'aluno87').
+1759598006: Client auto-98E3B88A-3F08-D308-E3AE-3C3F05136151 disconnected.
+1759598093: Client auto-2D77A7C2-FD46-6072-0789-234DBC7D5ADB has exceeded timeout, disconnecting.
+1759598098: mosquitto version 2.0.22 terminating
+1759598098: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759598102: mosquitto version 2.0.22 starting
+1759598102: Config loaded from /mosquitto/config/mosquitto.conf.
+1759598102: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759598102: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759598102: Opening ipv4 listen socket on port 1887.
+1759598102: Opening ipv4 listen socket on port 8887.
+1759598102: mosquitto version 2.0.22 running
+1759598107: New connection from 192.168.65.1:40439 on port 8887.
+1759598107: New client connected from 192.168.65.1:40439 as auto-72D4962B-870D-6CC0-4610-75989012E31C (p2, c1, k60, u'aluno87').
+1759598107: Client auto-72D4962B-870D-6CC0-4610-75989012E31C disconnected.
+1759598109: New connection from 192.168.65.1:61410 on port 8887.
+1759598109: New client connected from 192.168.65.1:61410 as auto-4B761015-48B9-D5E0-208B-FACF2C961B16 (p2, c1, k60, u'aluno87').
+1759598112: New connection from 192.168.65.1:18063 on port 8887.
+1759598112: New client connected from 192.168.65.1:18063 as auto-D89CD3A4-1892-4BED-4C32-47FCC7F0CA23 (p2, c1, k60, u'aluno87').
+1759598112: Client auto-D89CD3A4-1892-4BED-4C32-47FCC7F0CA23 disconnected.
+1759598114: New connection from 192.168.65.1:36326 on port 8887.
+1759598114: New client connected from 192.168.65.1:36326 as auto-190A98AE-DD51-12E7-1FF8-F977703E3147 (p2, c1, k60, u'aluno87').
+1759598114: Client auto-190A98AE-DD51-12E7-1FF8-F977703E3147 disconnected.
+1759598114: New connection from 192.168.65.1:25962 on port 8887.
+1759598114: New client connected from 192.168.65.1:25962 as auto-AC49022F-ACF5-4669-77FE-DFCDFDB78E88 (p2, c1, k60, u'aluno87').
+1759598114: Client auto-AC49022F-ACF5-4669-77FE-DFCDFDB78E88 disconnected.
+1759598115: New connection from 192.168.65.1:20421 on port 8887.
+1759598115: New client connected from 192.168.65.1:20421 as auto-1C18CDF2-C1AC-014E-96F2-C45DF884370D (p2, c1, k60, u'aluno87').
+1759598115: Client auto-1C18CDF2-C1AC-014E-96F2-C45DF884370D disconnected.
+1759598144: New connection from 192.168.65.1:63513 on port 8887.
+1759598144: New client connected from 192.168.65.1:63513 as auto-BCE97182-312E-14BF-71CC-AB908C9CCAA5 (p2, c1, k60, u'aluno87').
+1759598153: New connection from 192.168.65.1:16394 on port 8887.
+1759598153: New client connected from 192.168.65.1:16394 as auto-80DDFAC7-118D-FDA7-500E-F11D416A8432 (p2, c1, k60, u'aluno87').
+1759598153: Client auto-80DDFAC7-118D-FDA7-500E-F11D416A8432 disconnected.
+1759598154: New connection from 192.168.65.1:18280 on port 8887.
+1759598154: New client connected from 192.168.65.1:18280 as auto-BB3D98D6-8FAB-A4F9-5C2A-26B956443EE9 (p2, c1, k60, u'aluno87').
+1759598154: Client auto-BB3D98D6-8FAB-A4F9-5C2A-26B956443EE9 disconnected.
+1759598155: New connection from 192.168.65.1:26761 on port 8887.
+1759598155: New client connected from 192.168.65.1:26761 as auto-81B2D634-CC3C-03B6-FFEC-7F870A7BF9EE (p2, c1, k60, u'aluno87').
+1759598155: Client auto-81B2D634-CC3C-03B6-FFEC-7F870A7BF9EE disconnected.
+1759598156: New connection from 192.168.65.1:16849 on port 8887.
+1759598156: New client connected from 192.168.65.1:16849 as auto-1426DBCE-418A-A9A4-3452-0C4A77690AEA (p2, c1, k60, u'aluno87').
+1759598156: Client auto-1426DBCE-418A-A9A4-3452-0C4A77690AEA disconnected.
+1759598156: New connection from 192.168.65.1:41442 on port 8887.
+1759598156: New client connected from 192.168.65.1:41442 as auto-BBF0CD3D-1655-5DCE-46EC-EAB5BBA1EC7A (p2, c1, k60, u'aluno87').
+1759598156: Client auto-BBF0CD3D-1655-5DCE-46EC-EAB5BBA1EC7A disconnected.
+1759598180: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759598180: Client auto-4B761015-48B9-D5E0-208B-FACF2C961B16 closed its connection.
+1759598284: New connection from 192.168.65.1:35350 on port 8887.
+1759598284: New client connected from 192.168.65.1:35350 as aluno87 (p2, c1, k60, u'aluno87').
+1759598323: New connection from 192.168.65.1:44279 on port 8887.
+1759598324: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1759598324: Client aluno87 closed its connection.
+1759598326: New client connected from 192.168.65.1:44279 as aluno87 (p2, c1, k60, u'aluno87').
+1759598358: New connection from 192.168.65.1:28078 on port 8887.
+1759598358: New client connected from 192.168.65.1:28078 as auto-A095E934-0F83-1E8A-F125-61F769725430 (p2, c1, k60, u'aluno87').
+1759598686: Client auto-BCE97182-312E-14BF-71CC-AB908C9CCAA5 disconnected.
+1759598688: Client auto-A095E934-0F83-1E8A-F125-61F769725430 disconnected.
+1759598753: New connection from 192.168.65.1:43405 on port 1887.
+1759598753: Client auto-87DF17A9-D321-FEB0-4975-CC856E678BF9 disconnected, not authorised.
+1759598801: New connection from 192.168.65.1:50998 on port 1887.
+1759598801: Client auto-B6E2C76E-5588-5225-5BA5-D8D097228361 disconnected, not authorised.
+1759599902: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759600886: mosquitto version 2.0.22 terminating
+1759600886: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759600888: mosquitto version 2.0.22 starting
+1759600888: Config loaded from /mosquitto/config/mosquitto.conf.
+1759600888: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759600888: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759600888: Opening ipv4 listen socket on port 1887.
+1759600888: Opening ipv4 listen socket on port 8887.
+1759600888: mosquitto version 2.0.22 running
+1759600890: mosquitto version 2.0.22 terminating
+1759600890: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759600894: mosquitto version 2.0.22 starting
+1759600894: Config loaded from /mosquitto/config/mosquitto.conf.
+1759600894: Warning: File /mosquitto/config/acl.conf has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.conf`.
+1759600894: Warning: File /mosquitto/config/psk.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/psk.txt`.
+1759600894: Opening ipv4 listen socket on port 1887.
+1759600894: Opening ipv4 listen socket on port 8887.
+1759600894: mosquitto version 2.0.22 running
+1759602695: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759604496: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759606297: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759606955: mosquitto version 2.0.22 terminating
+1759606955: Saving in-memory database to /mosquitto/data//mosquitto.db.

@@ -180,3 +180,21 @@
 1759576482: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759581726: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1759583527: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759589576: mosquitto version 2.0.22 terminating
+1759589576: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759597326: mosquitto version 2.0.22 starting
+1759597326: Config loaded from /mosquitto/config/mosquitto.conf.
+1759597326: Opening ipv4 listen socket on port 1883.
+1759597326: Opening ipv6 listen socket on port 1883.
+1759597326: mosquitto version 2.0.22 running
+1759597462: New connection from 172.18.0.1:58798 on port 1883.
+1759597462: Client auto-BADADD71-007F-03AA-CBCE-58C0F2AFDFDC disconnected, not authorised.
+1759597470: New connection from 172.18.0.1:55364 on port 1883.
+1759597470: Client auto-3E0DEB48-3508-0933-A68B-28047750FD76 disconnected, not authorised.
+1759597507: New connection from 172.18.0.1:64332 on port 1883.
+1759597507: Client auto-34B59CB9-7638-75D6-5A8D-DE0DF4396276 disconnected, not authorised.
+1759599126: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759600927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759602728: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759604529: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759606330: Saving in-memory database to /mosquitto/data//mosquitto.db.
